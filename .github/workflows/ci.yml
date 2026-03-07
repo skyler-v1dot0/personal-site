@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: ['**']
   pull_request:
     branches: [main]
 
@@ -55,10 +55,7 @@ jobs:
           gem install html-proofer --no-document
           htmlproofer _site/ \
             --disable-external \
-            --check-html \
-            --check-img-http \
-            --report-missing-names \
-            --allow-missing-href \
+            --checks "Links,Images,Scripts" \
             --ignore-urls "/feed.xml"
 
   yaml-lint:
