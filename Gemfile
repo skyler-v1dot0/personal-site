@@ -7,3 +7,8 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
 end
+
+group :development, :test do
+  gem "html-proofer"
+  gem "bundler-audit"
+end
