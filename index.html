@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<section class="home-intro">
+  <h1>security researcher.<br>infrastructure engineer.<br>builder of things.</h1>
+  <p>I break things to understand them, then build systems that are harder to break.</p>
+  <p>Work spans offensive security, cloud infrastructure, and the software that ties it all together.</p>
+  <div class="focus-areas">
+    <span class="focus-pill">offensive security</span>
+    <span class="focus-pill">cloud infrastructure</span>
+    <span class="focus-pill">security research</span>
+    <span class="focus-pill">software development</span>
+    <span class="focus-pill">secure infra engineering</span>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="section-header">
+    <h2>recent writing</h2>
+    <a href="/writing/">all posts &rarr;</a>
+  </div>
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      {% unless post.categories contains "ctf" %}
+      <li class="post-list-item">
+        <div class="item-left">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {% if post.tags.size > 0 %}
+          <div class="item-tags">
+            {% for tag in post.tags limit:2 %}
+              <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        <span class="post-list-date">{{ post.date | date: "%b %Y" }}</span>
+      </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="home-section">
+  <div class="section-header">
+    <h2>ctf writeups</h2>
+    <a href="/ctf/">all writeups &rarr;</a>
+  </div>
+  <ul class="post-list">
+    {% for writeup in site.ctf limit:5 %}
+      <li class="post-list-item">
+        <div class="item-left">
+          <a href="{{ writeup.url | relative_url }}">{{ writeup.title }}</a>
+          {% if writeup.tags.size > 0 %}
+          <div class="item-tags">
+            {% for tag in writeup.tags limit:2 %}
+              <span class="tag tag-ctf">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        <span class="post-list-date">{{ writeup.date | date: "%b %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

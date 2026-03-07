@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="{{ '/' | relative_url }}" class="site-title">
+      {% if site.title != "" %}{{ site.title }}{% else %}<span class="placeholder">your name</span>{% endif %}
+    </a>
+    <nav class="site-nav">
+      <a href="{{ '/writing/' | relative_url }}" {% if page.url contains '/writing/' or page.url contains '/20' %}class="active"{% endif %}>writing</a>
+      <a href="{{ '/ctf/' | relative_url }}" {% if page.url contains '/ctf/' %}class="active"{% endif %}>ctf</a>
+      <a href="{{ '/projects/' | relative_url }}" {% if page.url == '/projects/' %}class="active"{% endif %}>projects</a>
+      <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>about</a>
+    </nav>
+  </div>
+</header>

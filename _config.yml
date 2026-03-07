@@ -1,0 +1,57 @@
+title: ""
+description: "Security researcher. Builder of things."
+url: ""
+baseurl: ""
+author:
+  name: ""
+  email: ""
+  github: ""
+  twitter: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: "highlight"
+
+# Collections
+collections:
+  ctf:
+    output: true
+    permalink: /ctf/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "ctf"
+    values:
+      layout: "post"
+
+# Pagination (optional, requires jekyll-paginate)
+# paginate: 10
+# paginate_path: "/page:num/"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .git
+  - vendor

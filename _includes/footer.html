@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <span class="footer-text">{{ site.description }}</span>
+    <div class="footer-links">
+      {% if site.author.github != "" %}
+        <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">github</a>
+      {% endif %}
+      {% if site.author.twitter != "" %}
+        <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">twitter</a>
+      {% endif %}
+      <a href="{{ '/feed.xml' | relative_url }}">rss</a>
+    </div>
+  </div>
+</footer>
