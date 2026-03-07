@@ -6,19 +6,19 @@ permalink: /about/
 
 <!-- Replace this section with your own bio -->
 
-I work at the intersection of offensive security, cloud infrastructure, and software engineering — a combination that came from spending years trying to break things and then being the one responsible for fixing them.
+I work at the intersection of security operations, infrastructure engineering, and network engineering — a combination that came from spending years trying to break things and then being the one responsible for fixing them.
 
-My background spans red team operations, building secure cloud environments, vulnerability research, and developing tools that make security work faster and more effective. I care about understanding systems at a deep level, not just at the surface.
+My background spans red team operations, building secure cloud environments, vulnerability research, and developing automations to make systems work faster and more effective. I care about understanding systems at a deep level, not just at the surface.
 
 ---
 
 ## what I do
 
-When I'm not breaking things for a living, I'm usually building tools that make breaking things more interesting — or writing about what I've learned along the way.
+When I'm not disecting log files for a living, I'm usually building automations — or writing about what I've learned along the way.
 
-- **Offensive security** — adversary simulation, red team ops, exploit development
+- **Offensive security** — adversary simulation, red team ops, automated pentetation testing
 - **Secure infrastructure** — cloud architecture, hardening, automation at scale
-- **Security research** — vulnerability discovery, CVE work, protocol analysis
+- **Security research** — vulnerability discovery, CVE work, aversarial tracking
 - **Software development** — security tooling, automation, backend systems
 
 ---
@@ -31,10 +31,8 @@ When I'm not breaking things for a living, I'm usually building tools that make 
       <h3>offensive</h3>
       <ul>
         <li>Red teaming</li>
-        <li>Exploit development</li>
-        <li>Web app testing</li>
-        <li>Active Directory attacks</li>
-        <li>Network pivoting</li>
+        <li>Scripting</li>
+        <li>Scanning</li>
       </ul>
     </div>
     <div class="skill-group">
@@ -51,10 +49,8 @@ When I'm not breaking things for a living, I'm usually building tools that make 
       <h3>development</h3>
       <ul>
         <li>Python</li>
-        <li>Go</li>
-        <li>Rust</li>
+        <li>Powershell</li>
         <li>Bash / shell scripting</li>
-        <li>C / C++</li>
       </ul>
     </div>
     <div class="skill-group">
