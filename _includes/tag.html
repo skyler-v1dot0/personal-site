@@ -1,0 +1,14 @@
+{% comment %}
+  Renders a single tag pill with a color class for known tags.
+  Usage: {% include tag.html tag=tag %}
+{% endcomment %}
+{% case include.tag %}
+  {% when "ctf" %}
+    <span class="tag tag-ctf">{{ include.tag }}</span>
+  {% when "security" %}
+    <span class="tag tag-security">{{ include.tag }}</span>
+  {% when "cloud" %}
+    <span class="tag tag-cloud">{{ include.tag }}</span>
+  {% else %}
+    <span class="tag">{{ include.tag }}</span>
+{% endcase %}

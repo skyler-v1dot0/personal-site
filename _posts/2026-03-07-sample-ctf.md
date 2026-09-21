@@ -4,6 +4,7 @@ title: "CTF Name — Challenge Title"
 date: 2026-03-07
 description: "Brief description of the challenge and category."
 tags:
+  - ctf
   - pwn
   - heap
 ---

@@ -1,0 +1,5 @@
+# Feed sources for the /news/ page.
+# Fetched on a schedule by scripts/fetch_news.rb (see .github/workflows/news.yml)
+# and written to _data/news.yml. Add more sources here as needed.
+- name: "The Hacker News"
+  url: "https://feeds.feedburner.com/TheHackersNews"

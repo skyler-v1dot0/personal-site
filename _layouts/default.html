@@ -5,7 +5,7 @@
 </head>
 <body>
   {% include header.html %}
-  <main class="container">
+  <main class="{% if page.full_bleed %}full-bleed{% else %}container{% endif %}">
     {{ content }}
   </main>
   {% include footer.html %}
