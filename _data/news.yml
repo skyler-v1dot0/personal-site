@@ -1,6 +1,20 @@
 ---
-updated_at: '2026-09-22T02:35:07Z'
+updated_at: '2026-09-22T08:05:56Z'
 items:
+- title: One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into
+    a Backdoor
+  url: https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html
+  source: The Hacker News
+  published: '2026-09-22T06:33:57Z'
+- title: WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via
+    Admin Session
+  url: https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
+  source: The Hacker News
+  published: '2026-09-22T06:03:14Z'
+- title: Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access
+  url: https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html
+  source: The Hacker News
+  published: '2026-09-22T05:31:59Z'
 - title: Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill
     Antivirus and EDR
   url: https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html
@@ -57,16 +71,3 @@ items:
   url: https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
   source: The Hacker News
   published: '2026-09-19T08:18:54Z'
-- title: Google Gemini Broke Into Real Company Systems After Security Test Domain
-    Mix-Up
-  url: https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html
-  source: The Hacker News
-  published: '2026-09-19T07:51:34Z'
-- title: CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories
-  url: https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html
-  source: The Hacker News
-  published: '2026-09-19T07:14:54Z'
-- title: CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild
-  url: https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html
-  source: The Hacker News
-  published: '2026-09-19T06:24:10Z'
