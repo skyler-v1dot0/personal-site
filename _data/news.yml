@@ -1,6 +1,37 @@
 ---
-updated_at: '2026-09-22T08:05:56Z'
+updated_at: '2026-09-22T13:48:25Z'
 items:
+- title: AI Agents Are Rewriting the Rules of Lateral Movement
+  url: https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html
+  source: The Hacker News
+  published: '2026-09-22T12:30:00Z'
+- title: New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based
+    Setups
+  url: https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html
+  source: The Hacker News
+  published: '2026-09-22T12:29:00Z'
+- title: 'DORA Year Two: Can Your SOC Actually See the Attack?'
+  url: https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html
+  source: The Hacker News
+  published: '2026-09-22T11:45:00Z'
+- title: New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
+  url: https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html
+  source: The Hacker News
+  published: '2026-09-22T11:38:40Z'
+- title: SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated
+    RCE
+  url: https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html
+  source: The Hacker News
+  published: '2026-09-22T11:17:41Z'
+- title: Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before
+    Removal
+  url: https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html
+  source: The Hacker News
+  published: '2026-09-22T09:38:18Z'
+- title: SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing
+  url: https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html
+  source: The Hacker News
+  published: '2026-09-22T07:52:03Z'
 - title: One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into
     a Backdoor
   url: https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html
@@ -39,35 +70,3 @@ items:
   url: https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html
   source: The Hacker News
   published: '2026-09-21T14:15:40Z'
-- title: ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure
-  url: https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html
-  source: The Hacker News
-  published: '2026-09-21T08:39:38Z'
-- title: Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK
-    Backdoors
-  url: https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html
-  source: The Hacker News
-  published: '2026-09-21T06:06:44Z'
-- title: Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained
-    Flaws
-  url: https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
-  source: The Hacker News
-  published: '2026-09-19T18:36:53Z'
-- title: Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in
-    This Webinar
-  url: https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html
-  source: The Hacker News
-  published: '2026-09-19T13:28:48Z'
-- title: 'Identity Visibility in 2026: The Foundation of Identity Security'
-  url: https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html
-  source: The Hacker News
-  published: '2026-09-19T13:28:41Z'
-- title: SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE
-  url: https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
-  source: The Hacker News
-  published: '2026-09-19T09:31:17Z'
-- title: Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the
-    Wild
-  url: https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
-  source: The Hacker News
-  published: '2026-09-19T08:18:54Z'
