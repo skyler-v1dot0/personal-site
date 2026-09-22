@@ -1,6 +1,19 @@
 ---
-updated_at: '2026-09-22T18:25:47Z'
+updated_at: '2026-09-22T23:23:29Z'
 items:
+- title: Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
+  url: https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
+  source: The Hacker News
+  published: '2026-09-22T18:29:39Z'
+- title: WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on
+    Some Servers
+  url: https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
+  source: The Hacker News
+  published: '2026-09-22T18:03:10Z'
+- title: Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
+  url: https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html
+  source: The Hacker News
+  published: '2026-09-22T17:58:15Z'
 - title: Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000
     Inbox Compromises
   url: https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html
@@ -56,17 +69,3 @@ items:
   url: https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
   source: The Hacker News
   published: '2026-09-22T06:03:14Z'
-- title: Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access
-  url: https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html
-  source: The Hacker News
-  published: '2026-09-22T05:31:59Z'
-- title: Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill
-    Antivirus and EDR
-  url: https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html
-  source: The Hacker News
-  published: '2026-09-21T17:31:01Z'
-- title: Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M
-    in Crypto
-  url: https://thehackernews.com/2026/09/contagious-interview-campaign.html
-  source: The Hacker News
-  published: '2026-09-21T17:19:00Z'
