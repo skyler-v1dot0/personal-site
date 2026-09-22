@@ -1,6 +1,20 @@
 ---
-updated_at: '2026-09-22T13:48:25Z'
+updated_at: '2026-09-22T18:25:47Z'
 items:
+- title: Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000
+    Inbox Compromises
+  url: https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html
+  source: The Hacker News
+  published: '2026-09-22T17:03:31Z'
+- title: Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials
+  url: https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html
+  source: The Hacker News
+  published: '2026-09-22T16:41:12Z'
+- title: Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender
+    Updates
+  url: https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html
+  source: The Hacker News
+  published: '2026-09-22T16:14:04Z'
 - title: AI Agents Are Rewriting the Rules of Lateral Movement
   url: https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html
   source: The Hacker News
@@ -56,17 +70,3 @@ items:
   url: https://thehackernews.com/2026/09/contagious-interview-campaign.html
   source: The Hacker News
   published: '2026-09-21T17:19:00Z'
-- title: Google Fined €403 Million Over GDPR Violations Tied to Location Data
-  url: https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html
-  source: The Hacker News
-  published: '2026-09-21T16:57:31Z'
-- title: "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge,
-    and Browser Hijacks"
-  url: https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html
-  source: The Hacker News
-  published: '2026-09-21T14:24:13Z'
-- title: TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard
-    Data
-  url: https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html
-  source: The Hacker News
-  published: '2026-09-21T14:15:40Z'
