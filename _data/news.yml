@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-09-23T18:45:00Z'
+updated_at: '2026-09-23T23:21:57Z'
 items:
+- title: Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp
+    Registry
+  url: https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html
+  source: The Hacker News
+  published: '2026-09-23T18:06:30Z'
 - title: A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs
     as You
   url: https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html
@@ -67,7 +72,3 @@ items:
   url: https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
   source: The Hacker News
   published: '2026-09-22T18:03:10Z'
-- title: Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
-  url: https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html
-  source: The Hacker News
-  published: '2026-09-22T17:58:15Z'
