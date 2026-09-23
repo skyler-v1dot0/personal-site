@@ -1,6 +1,34 @@
 ---
-updated_at: '2026-09-23T08:08:09Z'
+updated_at: '2026-09-23T13:58:51Z'
 items:
+- title: New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server
+    Control
+  url: https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html
+  source: The Hacker News
+  published: '2026-09-23T12:16:00Z'
+- title: 545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent
+  url: https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html
+  source: The Hacker News
+  published: '2026-09-23T11:47:19Z'
+- title: Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests
+  url: https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html
+  source: The Hacker News
+  published: '2026-09-23T11:47:13Z'
+- title: Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container
+    Escape
+  url: https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html
+  source: The Hacker News
+  published: '2026-09-23T11:12:18Z'
+- title: F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE
+    on OAuth Servers
+  url: https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html
+  source: The Hacker News
+  published: '2026-09-23T08:29:48Z'
+- title: Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP
+    Malware
+  url: https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html
+  source: The Hacker News
+  published: '2026-09-23T08:29:24Z'
 - title: Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via
     Crafted SVG Input
   url: https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html
@@ -41,30 +69,3 @@ items:
   url: https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html
   source: The Hacker News
   published: '2026-09-22T12:30:00Z'
-- title: New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based
-    Setups
-  url: https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html
-  source: The Hacker News
-  published: '2026-09-22T12:29:00Z'
-- title: 'DORA Year Two: Can Your SOC Actually See the Attack?'
-  url: https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html
-  source: The Hacker News
-  published: '2026-09-22T11:45:00Z'
-- title: New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
-  url: https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html
-  source: The Hacker News
-  published: '2026-09-22T11:38:40Z'
-- title: SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated
-    RCE
-  url: https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html
-  source: The Hacker News
-  published: '2026-09-22T11:17:41Z'
-- title: Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before
-    Removal
-  url: https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html
-  source: The Hacker News
-  published: '2026-09-22T09:38:18Z'
-- title: SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing
-  url: https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html
-  source: The Hacker News
-  published: '2026-09-22T07:52:03Z'
