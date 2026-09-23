@@ -1,6 +1,15 @@
 ---
-updated_at: '2026-09-23T02:35:15Z'
+updated_at: '2026-09-23T08:08:09Z'
 items:
+- title: Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via
+    Crafted SVG Input
+  url: https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html
+  source: The Hacker News
+  published: '2026-09-23T07:04:40Z'
+- title: ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants
+  url: https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html
+  source: The Hacker News
+  published: '2026-09-23T05:30:09Z'
 - title: Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
   url: https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
   source: The Hacker News
@@ -59,13 +68,3 @@ items:
   url: https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html
   source: The Hacker News
   published: '2026-09-22T07:52:03Z'
-- title: One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into
-    a Backdoor
-  url: https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html
-  source: The Hacker News
-  published: '2026-09-22T06:33:57Z'
-- title: WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via
-    Admin Session
-  url: https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
-  source: The Hacker News
-  published: '2026-09-22T06:03:14Z'
