@@ -1,6 +1,15 @@
 ---
-updated_at: '2026-09-24T18:45:42Z'
+updated_at: '2026-09-24T23:41:51Z'
 items:
+- title: Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
+  url: https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html
+  source: The Hacker News
+  published: '2026-09-24T18:10:18Z'
+- title: 'ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click
+    Code Execution and 13 More Stories'
+  url: https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html
+  source: The Hacker News
+  published: '2026-09-24T17:52:43Z'
 - title: Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves
     Malicious Content
   url: https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html
@@ -63,12 +72,3 @@ items:
   url: https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html
   source: The Hacker News
   published: '2026-09-23T13:52:46Z'
-- title: New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server
-    Control
-  url: https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html
-  source: The Hacker News
-  published: '2026-09-23T12:16:00Z'
-- title: 545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent
-  url: https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html
-  source: The Hacker News
-  published: '2026-09-23T11:47:19Z'
