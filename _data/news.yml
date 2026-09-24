@@ -1,6 +1,33 @@
 ---
-updated_at: '2026-09-24T07:59:30Z'
+updated_at: '2026-09-24T13:55:28Z'
 items:
+- title: Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls
+  url: https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html
+  source: The Hacker News
+  published: '2026-09-24T12:05:27Z'
+- title: Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore
+  url: https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html
+  source: The Hacker News
+  published: '2026-09-24T11:00:00Z'
+- title: '17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps:
+    Report by CTM360'
+  url: https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html
+  source: The Hacker News
+  published: '2026-09-24T09:14:21Z'
+- title: OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public
+    Files
+  url: https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
+  source: The Hacker News
+  published: '2026-09-24T07:07:25Z'
+- title: TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default
+    Passwords
+  url: https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html
+  source: The Hacker News
+  published: '2026-09-24T06:32:03Z'
+- title: Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure
+  url: https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
+  source: The Hacker News
+  published: '2026-09-24T05:36:18Z'
 - title: Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp
     Registry
   url: https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html
@@ -44,31 +71,3 @@ items:
   url: https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html
   source: The Hacker News
   published: '2026-09-23T11:12:18Z'
-- title: F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE
-    on OAuth Servers
-  url: https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html
-  source: The Hacker News
-  published: '2026-09-23T08:29:48Z'
-- title: Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP
-    Malware
-  url: https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html
-  source: The Hacker News
-  published: '2026-09-23T08:29:24Z'
-- title: Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via
-    Crafted SVG Input
-  url: https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html
-  source: The Hacker News
-  published: '2026-09-23T07:04:40Z'
-- title: ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants
-  url: https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html
-  source: The Hacker News
-  published: '2026-09-23T05:30:09Z'
-- title: Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
-  url: https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
-  source: The Hacker News
-  published: '2026-09-22T18:29:39Z'
-- title: WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on
-    Some Servers
-  url: https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
-  source: The Hacker News
-  published: '2026-09-22T18:03:10Z'
