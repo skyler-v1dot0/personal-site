@@ -1,6 +1,15 @@
 ---
-updated_at: '2026-09-25T02:41:03Z'
+updated_at: '2026-09-25T08:22:40Z'
 items:
+- title: Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover
+    Disk Data
+  url: https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
+  source: The Hacker News
+  published: '2026-09-25T04:49:22Z'
+- title: WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV
+  url: https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html
+  source: The Hacker News
+  published: '2026-09-25T04:46:34Z'
 - title: Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
   url: https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html
   source: The Hacker News
@@ -62,13 +71,3 @@ items:
   url: https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html
   source: The Hacker News
   published: '2026-09-23T16:06:41Z'
-- title: This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next
-    Move
-  url: https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html
-  source: The Hacker News
-  published: '2026-09-23T14:17:58Z'
-- title: Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and
-    PyPI
-  url: https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html
-  source: The Hacker News
-  published: '2026-09-23T13:52:46Z'
