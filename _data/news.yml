@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-09-25T14:19:35Z'
+updated_at: '2026-09-25T19:03:13Z'
 items:
+- title: Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud
+    Malware
+  url: https://thehackernews.com/2026/09/compromised-github-actions-came-back.html
+  source: The Hacker News
+  published: '2026-09-25T14:44:41Z'
+- title: PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer
+    Persistence
+  url: https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html
+  source: The Hacker News
+  published: '2026-09-25T13:18:06Z'
 - title: The SOC Doesn't Need to Start Over with Every Alert
   url: https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html
   source: The Hacker News
@@ -59,12 +69,3 @@ items:
   url: https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
   source: The Hacker News
   published: '2026-09-24T07:07:25Z'
-- title: TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default
-    Passwords
-  url: https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html
-  source: The Hacker News
-  published: '2026-09-24T06:32:03Z'
-- title: Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure
-  url: https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
-  source: The Hacker News
-  published: '2026-09-24T05:36:18Z'
