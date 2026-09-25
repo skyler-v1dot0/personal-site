@@ -1,6 +1,18 @@
 ---
-updated_at: '2026-09-25T08:22:40Z'
+updated_at: '2026-09-25T14:19:35Z'
 items:
+- title: The SOC Doesn't Need to Start Over with Every Alert
+  url: https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html
+  source: The Hacker News
+  published: '2026-09-25T11:30:00Z'
+- title: Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise
+  url: https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html
+  source: The Hacker News
+  published: '2026-09-25T10:35:55Z'
+- title: Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild
+  url: https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html
+  source: The Hacker News
+  published: '2026-09-25T10:14:02Z'
 - title: Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover
     Disk Data
   url: https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
@@ -56,18 +68,3 @@ items:
   url: https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
   source: The Hacker News
   published: '2026-09-24T05:36:18Z'
-- title: Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp
-    Registry
-  url: https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html
-  source: The Hacker News
-  published: '2026-09-23T18:06:30Z'
-- title: A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs
-    as You
-  url: https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html
-  source: The Hacker News
-  published: '2026-09-23T16:53:10Z'
-- title: MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password
-    or SSH Key
-  url: https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html
-  source: The Hacker News
-  published: '2026-09-23T16:06:41Z'
