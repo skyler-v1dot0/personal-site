@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-09-26T18:10:52Z'
+updated_at: '2026-09-26T23:16:15Z'
 items:
+- title: Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal
+    Browser Credentials
+  url: https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
+  source: The Hacker News
+  published: '2026-09-26T18:22:52Z'
 - title: Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
   url: https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
   source: The Hacker News
@@ -63,8 +68,3 @@ items:
   url: https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html
   source: The Hacker News
   published: '2026-09-24T17:52:43Z'
-- title: Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves
-    Malicious Content
-  url: https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html
-  source: The Hacker News
-  published: '2026-09-24T15:27:32Z'
