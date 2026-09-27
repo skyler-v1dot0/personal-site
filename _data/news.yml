@@ -1,6 +1,10 @@
 ---
-updated_at: '2026-09-27T02:44:08Z'
+updated_at: '2026-09-27T08:45:33Z'
 items:
+- title: 'Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation'
+  url: https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
+  source: The Hacker News
+  published: '2026-09-27T07:47:57Z'
 - title: Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal
     Browser Credentials
   url: https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
@@ -63,8 +67,3 @@ items:
   url: https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html
   source: The Hacker News
   published: '2026-09-24T18:10:18Z'
-- title: 'ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click
-    Code Execution and 13 More Stories'
-  url: https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html
-  source: The Hacker News
-  published: '2026-09-24T17:52:43Z'
