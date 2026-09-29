@@ -1,10 +1,20 @@
 ---
-updated_at: '2026-09-29T17:21:00Z'
+updated_at: '2026-09-29T21:41:30Z'
 items:
+- title: French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven
+    Weeks
+  url: https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html
+  source: The Hacker News
+  published: '2026-09-29T17:47:01Z'
 - title: New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
   url: https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
   source: The Hacker News
-  published: '2026-09-29T17:00:00Z'
+  published: '2026-09-29T17:20:17Z'
+- title: Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites
+    to Deliver Backdoor
+  url: https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html
+  source: The Hacker News
+  published: '2026-09-29T17:20:08Z'
 - title: Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
   url: https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html
   source: The Hacker News
@@ -58,13 +68,3 @@ items:
   url: https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html
   source: The Hacker News
   published: '2026-09-28T14:00:53Z'
-- title: 'Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow
-    AI'
-  url: https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html
-  source: The Hacker News
-  published: '2026-09-28T11:58:00Z'
-- title: Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes
-    AI Agent
-  url: https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html
-  source: The Hacker News
-  published: '2026-09-28T11:46:00Z'
