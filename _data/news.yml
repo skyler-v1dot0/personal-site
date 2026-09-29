@@ -1,6 +1,20 @@
 ---
-updated_at: '2026-09-29T00:45:14Z'
+updated_at: '2026-09-29T09:19:20Z'
 items:
+- title: Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
+  url: https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html
+  source: The Hacker News
+  published: '2026-09-29T06:08:25Z'
+- title: OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized
+    Actions
+  url: https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html
+  source: The Hacker News
+  published: '2026-09-29T05:12:32Z'
+- title: OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External
+    Chatbot
+  url: https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html
+  source: The Hacker News
+  published: '2026-09-29T04:45:20Z'
 - title: Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
   url: https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html
   source: The Hacker News
@@ -55,16 +69,3 @@ items:
   url: https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
   source: The Hacker News
   published: '2026-09-26T18:22:52Z'
-- title: Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
-  url: https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
-  source: The Hacker News
-  published: '2026-09-26T11:46:40Z'
-- title: Zero Trust for AI Agents Starts With Fixing Zero Visibility
-  url: https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html
-  source: The Hacker News
-  published: '2026-09-26T10:30:00Z'
-- title: Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted
-    Link
-  url: https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html
-  source: The Hacker News
-  published: '2026-09-26T09:55:22Z'
