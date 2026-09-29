@@ -1,6 +1,23 @@
 ---
-updated_at: '2026-09-29T09:19:20Z'
+updated_at: '2026-09-29T17:21:00Z'
 items:
+- title: New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
+  url: https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
+  source: The Hacker News
+  published: '2026-09-29T17:00:00Z'
+- title: Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
+  url: https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html
+  source: The Hacker News
+  published: '2026-09-29T14:13:20Z'
+- title: 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without
+    Consent
+  url: https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html
+  source: The Hacker News
+  published: '2026-09-29T13:45:10Z'
+- title: Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
+  url: https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html
+  source: The Hacker News
+  published: '2026-09-29T08:35:10Z'
 - title: Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
   url: https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html
   source: The Hacker News
@@ -51,21 +68,3 @@ items:
   url: https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html
   source: The Hacker News
   published: '2026-09-28T11:46:00Z'
-- title: JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete
-    Azure Resources
-  url: https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html
-  source: The Hacker News
-  published: '2026-09-28T09:08:21Z'
-- title: CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally
-  url: https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html
-  source: The Hacker News
-  published: '2026-09-28T07:21:49Z'
-- title: 'Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation'
-  url: https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
-  source: The Hacker News
-  published: '2026-09-27T07:47:57Z'
-- title: Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal
-    Browser Credentials
-  url: https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
-  source: The Hacker News
-  published: '2026-09-26T18:22:52Z'
