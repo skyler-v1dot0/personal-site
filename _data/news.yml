@@ -1,6 +1,14 @@
 ---
-updated_at: '2026-09-28T19:00:11Z'
+updated_at: '2026-09-29T00:45:14Z'
 items:
+- title: Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
+  url: https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html
+  source: The Hacker News
+  published: '2026-09-28T19:18:01Z'
+- title: Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+  url: https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html
+  source: The Hacker News
+  published: '2026-09-28T18:35:42Z'
 - title: 'IAM for AI agents: A Practical Enterprise Framework'
   url: https://thehackernews.com/2026/09/iam-for-ai-agent.html
   source: The Hacker News
@@ -60,12 +68,3 @@ items:
   url: https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html
   source: The Hacker News
   published: '2026-09-26T09:55:22Z'
-- title: SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild
-  url: https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html
-  source: The Hacker News
-  published: '2026-09-26T08:49:53Z'
-- title: Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible
-    Cyber Attack
-  url: https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html
-  source: The Hacker News
-  published: '2026-09-26T07:48:33Z'
