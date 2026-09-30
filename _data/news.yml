@@ -1,6 +1,15 @@
 ---
-updated_at: '2026-09-30T17:18:39Z'
+updated_at: '2026-09-30T21:42:11Z'
 items:
+- title: Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication
+    Secrets
+  url: https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html
+  source: The Hacker News
+  published: '2026-09-30T16:46:29Z'
+- title: Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks
+  url: https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html
+  source: The Hacker News
+  published: '2026-09-30T16:32:59Z'
 - title: Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN
     Manager
   url: https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html
@@ -60,11 +69,3 @@ items:
   url: https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html
   source: The Hacker News
   published: '2026-09-29T13:45:10Z'
-- title: Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
-  url: https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html
-  source: The Hacker News
-  published: '2026-09-29T08:35:10Z'
-- title: Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
-  url: https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html
-  source: The Hacker News
-  published: '2026-09-29T06:08:25Z'
