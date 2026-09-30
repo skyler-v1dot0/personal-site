@@ -1,6 +1,29 @@
 ---
-updated_at: '2026-09-30T03:11:18Z'
+updated_at: '2026-09-30T11:38:36Z'
 items:
+- title: AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records,
+    on GitHub
+  url: https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html
+  source: The Hacker News
+  published: '2026-09-30T11:30:00Z'
+- title: US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM
+    Tools for Remote Access
+  url: https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html
+  source: The Hacker News
+  published: '2026-09-30T10:45:00Z'
+- title: Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT
+  url: https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html
+  source: The Hacker News
+  published: '2026-09-30T08:24:35Z'
+- title: OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
+  url: https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html
+  source: The Hacker News
+  published: '2026-09-30T08:09:28Z'
+- title: Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode
+    Execution
+  url: https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
+  source: The Hacker News
+  published: '2026-09-30T05:30:30Z'
 - title: French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven
     Weeks
   url: https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html
@@ -46,25 +69,3 @@ items:
   url: https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html
   source: The Hacker News
   published: '2026-09-28T19:18:01Z'
-- title: Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
-  url: https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html
-  source: The Hacker News
-  published: '2026-09-28T18:35:42Z'
-- title: 'IAM for AI agents: A Practical Enterprise Framework'
-  url: https://thehackernews.com/2026/09/iam-for-ai-agent.html
-  source: The Hacker News
-  published: '2026-09-28T18:20:38Z'
-- title: Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal
-    $388M
-  url: https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html
-  source: The Hacker News
-  published: '2026-09-28T17:42:18Z'
-- title: RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims
-  url: https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html
-  source: The Hacker News
-  published: '2026-09-28T17:38:33Z'
-- title: "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script,
-    and More Threats"
-  url: https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html
-  source: The Hacker News
-  published: '2026-09-28T14:00:53Z'
