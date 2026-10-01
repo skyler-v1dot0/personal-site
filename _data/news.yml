@@ -1,6 +1,38 @@
 ---
-updated_at: '2026-10-01T03:18:14Z'
+updated_at: '2026-10-01T12:07:38Z'
 items:
+- title: OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates
+  url: https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html
+  source: The Hacker News
+  published: '2026-10-01T10:42:36Z'
+- title: CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV
+  url: https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html
+  source: The Hacker News
+  published: '2026-10-01T10:33:16Z'
+- title: Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free
+    Version
+  url: https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html
+  source: The Hacker News
+  published: '2026-10-01T07:49:36Z'
+- title: Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery
+    Path
+  url: https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html
+  source: The Hacker News
+  published: '2026-10-01T05:54:41Z'
+- title: Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency
+    Theft
+  url: https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html
+  source: The Hacker News
+  published: '2026-10-01T05:21:10Z'
+- title: MetaMask Security Incident Prompts Exit of Affected Ethereum Validators
+  url: https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html
+  source: The Hacker News
+  published: '2026-10-01T05:10:09Z'
+- title: Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell
+    to CSS-Like URLs
+  url: https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html
+  source: The Hacker News
+  published: '2026-10-01T04:35:34Z'
 - title: Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication
     Secrets
   url: https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html
@@ -37,35 +69,3 @@ items:
   url: https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html
   source: The Hacker News
   published: '2026-09-30T08:24:35Z'
-- title: OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
-  url: https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html
-  source: The Hacker News
-  published: '2026-09-30T08:09:28Z'
-- title: Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode
-    Execution
-  url: https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
-  source: The Hacker News
-  published: '2026-09-30T05:30:30Z'
-- title: French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven
-    Weeks
-  url: https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html
-  source: The Hacker News
-  published: '2026-09-29T17:47:01Z'
-- title: New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
-  url: https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
-  source: The Hacker News
-  published: '2026-09-29T17:20:17Z'
-- title: Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites
-    to Deliver Backdoor
-  url: https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html
-  source: The Hacker News
-  published: '2026-09-29T17:20:08Z'
-- title: Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
-  url: https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html
-  source: The Hacker News
-  published: '2026-09-29T14:13:20Z'
-- title: 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without
-    Consent
-  url: https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html
-  source: The Hacker News
-  published: '2026-09-29T13:45:10Z'
