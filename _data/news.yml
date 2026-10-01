@@ -1,6 +1,25 @@
 ---
-updated_at: '2026-10-01T12:07:38Z'
+updated_at: '2026-10-01T19:59:16Z'
 items:
+- title: Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware
+    Leak Site and Servers
+  url: https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
+  source: The Hacker News
+  published: '2026-10-01T16:55:57Z'
+- title: 'ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection
+    RCE and 13 More Stories'
+  url: https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html
+  source: The Hacker News
+  published: '2026-10-01T16:45:38Z'
+- title: WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and
+    Shared Memory
+  url: https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html
+  source: The Hacker News
+  published: '2026-10-01T14:37:35Z'
+- title: How Financial Services Companies Can Modernize Their Software Supply Chain
+  url: https://thehackernews.com/2026/10/how-financial-services-companies-can.html
+  source: The Hacker News
+  published: '2026-10-01T11:45:00Z'
 - title: OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates
   url: https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html
   source: The Hacker News
@@ -51,21 +70,3 @@ items:
   url: https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html
   source: The Hacker News
   published: '2026-09-30T15:00:15Z'
-- title: 'Know Your Enemy: Browser-Based Attack Techniques in 2026'
-  url: https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html
-  source: The Hacker News
-  published: '2026-09-30T11:58:00Z'
-- title: AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records,
-    on GitHub
-  url: https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html
-  source: The Hacker News
-  published: '2026-09-30T11:30:00Z'
-- title: US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM
-    Tools for Remote Access
-  url: https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html
-  source: The Hacker News
-  published: '2026-09-30T10:45:00Z'
-- title: Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT
-  url: https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html
-  source: The Hacker News
-  published: '2026-09-30T08:24:35Z'
