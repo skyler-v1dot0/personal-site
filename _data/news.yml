@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-10-02T00:21:48Z'
+updated_at: '2026-10-02T09:11:46Z'
 items:
+- title: Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility
+    Tools
+  url: https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html
+  source: The Hacker News
+  published: '2026-10-02T08:01:30Z'
+- title: Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated
+    Arbitrary File Writes
+  url: https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
+  source: The Hacker News
+  published: '2026-10-02T05:49:50Z'
 - title: Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware
     Leak Site and Servers
   url: https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
@@ -61,12 +71,3 @@ items:
   url: https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html
   source: The Hacker News
   published: '2026-09-30T16:32:59Z'
-- title: Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN
-    Manager
-  url: https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html
-  source: The Hacker News
-  published: '2026-09-30T15:24:54Z'
-- title: Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures
-  url: https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html
-  source: The Hacker News
-  published: '2026-09-30T15:00:15Z'
