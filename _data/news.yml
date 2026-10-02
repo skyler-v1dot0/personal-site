@@ -1,6 +1,21 @@
 ---
-updated_at: '2026-10-02T17:06:51Z'
+updated_at: '2026-10-02T21:37:41Z'
 items:
+- title: GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on
+    Self-Hosted Servers
+  url: https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
+  source: The Hacker News
+  published: '2026-10-02T17:33:31Z'
+- title: Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage
+    Campaign
+  url: https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
+  source: The Hacker News
+  published: '2026-10-02T17:33:16Z'
+- title: Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes
+    Nodes
+  url: https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
+  source: The Hacker News
+  published: '2026-10-02T17:02:12Z'
 - title: OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information
     Mishandling
   url: https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html
@@ -58,17 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html
   source: The Hacker News
   published: '2026-10-01T05:54:41Z'
-- title: Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency
-    Theft
-  url: https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html
-  source: The Hacker News
-  published: '2026-10-01T05:21:10Z'
-- title: MetaMask Security Incident Prompts Exit of Affected Ethereum Validators
-  url: https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html
-  source: The Hacker News
-  published: '2026-10-01T05:10:09Z'
-- title: Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell
-    to CSS-Like URLs
-  url: https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html
-  source: The Hacker News
-  published: '2026-10-01T04:35:34Z'
