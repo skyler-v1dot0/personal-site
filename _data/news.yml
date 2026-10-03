@@ -1,6 +1,18 @@
 ---
-updated_at: '2026-10-03T10:51:43Z'
+updated_at: '2026-10-03T15:29:54Z'
 items:
+- title: MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
+  url: https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html
+  source: The Hacker News
+  published: '2026-10-03T14:38:46Z'
+- title: Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
+  url: https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
+  source: The Hacker News
+  published: '2026-10-03T14:36:33Z'
+- title: The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
+  url: https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html
+  source: The Hacker News
+  published: '2026-10-03T11:00:00Z'
 - title: GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on
     Self-Hosted Servers
   url: https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
@@ -59,17 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html
   source: The Hacker News
   published: '2026-10-01T10:42:36Z'
-- title: CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV
-  url: https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html
-  source: The Hacker News
-  published: '2026-10-01T10:33:16Z'
-- title: Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free
-    Version
-  url: https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html
-  source: The Hacker News
-  published: '2026-10-01T07:49:36Z'
-- title: Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery
-    Path
-  url: https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html
-  source: The Hacker News
-  published: '2026-10-01T05:54:41Z'
