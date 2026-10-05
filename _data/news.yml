@@ -1,6 +1,24 @@
 ---
-updated_at: '2026-10-05T13:07:41Z'
+updated_at: '2026-10-05T21:44:41Z'
 items:
+- title: Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
+  url: https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html
+  source: The Hacker News
+  published: '2026-10-05T16:21:52Z'
+- title: "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre
+    v2 and Ransomware Arrests"
+  url: https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html
+  source: The Hacker News
+  published: '2026-10-05T14:20:43Z'
+- title: The Credential Layer Is Expanding Faster Than Security Teams Can See It
+  url: https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html
+  source: The Hacker News
+  published: '2026-10-05T11:55:00Z'
+- title: Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based
+    C2
+  url: https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html
+  source: The Hacker News
+  published: '2026-10-05T11:46:25Z'
 - title: Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access
   url: https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
   source: The Hacker News
@@ -51,23 +69,3 @@ items:
   url: https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
   source: The Hacker News
   published: '2026-10-02T17:02:12Z'
-- title: OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information
-    Mishandling
-  url: https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html
-  source: The Hacker News
-  published: '2026-10-02T12:23:15Z'
-- title: Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How
-    to Fix the Report
-  url: https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html
-  source: The Hacker News
-  published: '2026-10-02T11:30:00Z'
-- title: Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility
-    Tools
-  url: https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html
-  source: The Hacker News
-  published: '2026-10-02T08:01:30Z'
-- title: Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated
-    Arbitrary File Writes
-  url: https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
-  source: The Hacker News
-  published: '2026-10-02T05:49:50Z'
