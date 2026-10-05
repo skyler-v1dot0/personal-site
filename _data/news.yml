@@ -1,6 +1,20 @@
 ---
-updated_at: '2026-10-05T03:13:50Z'
+updated_at: '2026-10-05T13:07:41Z'
 items:
+- title: Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access
+  url: https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
+  source: The Hacker News
+  published: '2026-10-05T10:38:50Z'
+- title: Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and
+    RCE
+  url: https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
+  source: The Hacker News
+  published: '2026-10-05T08:09:23Z'
+- title: New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments
+    Offline
+  url: https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
+  source: The Hacker News
+  published: '2026-10-05T06:40:19Z'
 - title: ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify
     Group Members
   url: https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
@@ -57,18 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
   source: The Hacker News
   published: '2026-10-02T05:49:50Z'
-- title: Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware
-    Leak Site and Servers
-  url: https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
-  source: The Hacker News
-  published: '2026-10-01T16:55:57Z'
-- title: 'ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection
-    RCE and 13 More Stories'
-  url: https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html
-  source: The Hacker News
-  published: '2026-10-01T16:45:38Z'
-- title: WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and
-    Shared Memory
-  url: https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html
-  source: The Hacker News
-  published: '2026-10-01T14:37:35Z'
