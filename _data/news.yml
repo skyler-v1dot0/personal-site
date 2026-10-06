@@ -1,6 +1,44 @@
 ---
-updated_at: '2026-10-06T04:01:40Z'
+updated_at: '2026-10-06T12:29:13Z'
 items:
+- title: LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without
+    Macro Warnings
+  url: https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html
+  source: The Hacker News
+  published: '2026-10-06T11:57:00Z'
+- title: Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools
+    as Proxies
+  url: https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html
+  source: The Hacker News
+  published: '2026-10-06T11:26:25Z'
+- title: 'Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers'
+  url: https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html
+  source: The Hacker News
+  published: '2026-10-06T11:02:30Z'
+- title: Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated
+    Reports
+  url: https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html
+  source: The Hacker News
+  published: '2026-10-06T09:21:47Z'
+- title: Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across
+    8 Products
+  url: https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html
+  source: The Hacker News
+  published: '2026-10-06T06:58:56Z'
+- title: FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters
+    Breach
+  url: https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html
+  source: The Hacker News
+  published: '2026-10-06T06:56:57Z'
+- title: Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company
+    Account
+  url: https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html
+  source: The Hacker News
+  published: '2026-10-06T06:00:30Z'
+- title: ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits
+  url: https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html
+  source: The Hacker News
+  published: '2026-10-06T05:22:55Z'
 - title: Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
   url: https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html
   source: The Hacker News
@@ -33,39 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
   source: The Hacker News
   published: '2026-10-05T06:40:19Z'
-- title: ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify
-    Group Members
-  url: https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
-  source: The Hacker News
-  published: '2026-10-04T07:22:05Z'
-- title: China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
-  url: https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
-  source: The Hacker News
-  published: '2026-10-04T07:20:32Z'
-- title: MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
-  url: https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html
-  source: The Hacker News
-  published: '2026-10-03T14:38:46Z'
-- title: Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
-  url: https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
-  source: The Hacker News
-  published: '2026-10-03T14:36:33Z'
-- title: The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
-  url: https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html
-  source: The Hacker News
-  published: '2026-10-03T11:00:00Z'
-- title: GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on
-    Self-Hosted Servers
-  url: https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
-  source: The Hacker News
-  published: '2026-10-02T17:33:31Z'
-- title: Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage
-    Campaign
-  url: https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
-  source: The Hacker News
-  published: '2026-10-02T17:33:16Z'
-- title: Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes
-    Nodes
-  url: https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
-  source: The Hacker News
-  published: '2026-10-02T17:02:12Z'
