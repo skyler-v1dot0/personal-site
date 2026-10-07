@@ -1,6 +1,15 @@
 ---
-updated_at: '2026-10-06T19:55:16Z'
+updated_at: '2026-10-07T00:15:46Z'
 items:
+- title: Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
+  url: https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
+  source: The Hacker News
+  published: '2026-10-06T18:38:55Z'
+- title: Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea
+    and Taiwan
+  url: https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html
+  source: The Hacker News
+  published: '2026-10-06T18:24:25Z'
 - title: LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without
     Macro Warnings
   url: https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html
@@ -61,13 +70,3 @@ items:
   url: https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
   source: The Hacker News
   published: '2026-10-05T10:38:50Z'
-- title: Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and
-    RCE
-  url: https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
-  source: The Hacker News
-  published: '2026-10-05T08:09:23Z'
-- title: New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments
-    Offline
-  url: https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
-  source: The Hacker News
-  published: '2026-10-05T06:40:19Z'
