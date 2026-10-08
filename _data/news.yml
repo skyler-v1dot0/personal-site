@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-07T18:11:10Z'
+updated_at: '2026-10-08T00:37:02Z'
 items:
+- title: Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for
+    Google Domains
+  url: https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html
+  source: The Hacker News
+  published: '2026-10-07T18:48:17Z'
 - title: Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT
     and Stealer
   url: https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html
@@ -64,7 +69,3 @@ items:
   url: https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html
   source: The Hacker News
   published: '2026-10-06T11:26:25Z'
-- title: 'Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers'
-  url: https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html
-  source: The Hacker News
-  published: '2026-10-06T11:02:30Z'
