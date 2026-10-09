@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-10-09T17:46:18Z'
+updated_at: '2026-10-09T22:02:55Z'
 items:
+- title: Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands
+    of Repositories
+  url: https://thehackernews.com/2026/10/credential-stealing-github-actions.html
+  source: The Hacker News
+  published: '2026-10-09T19:14:28Z'
+- title: FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs
+    Portal Hack
+  url: https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html
+  source: The Hacker News
+  published: '2026-10-09T17:45:26Z'
 - title: P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
   url: https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
   source: The Hacker News
@@ -61,13 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
   source: The Hacker News
   published: '2026-10-08T17:58:02Z'
-- title: Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase
-    Attacks
-  url: https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html
-  source: The Hacker News
-  published: '2026-10-08T15:45:56Z'
-- title: UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands
-    in HTML
-  url: https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html
-  source: The Hacker News
-  published: '2026-10-08T15:26:56Z'
