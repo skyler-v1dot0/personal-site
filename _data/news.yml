@@ -1,6 +1,25 @@
 ---
-updated_at: '2026-10-09T00:52:15Z'
+updated_at: '2026-10-09T09:50:18Z'
 items:
+- title: GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format
+    Keys
+  url: https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
+  source: The Hacker News
+  published: '2026-10-09T09:03:24Z'
+- title: Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at
+    Pwn2Own
+  url: https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html
+  source: The Hacker News
+  published: '2026-10-09T08:26:17Z'
+- title: Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments
+  url: https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html
+  source: The Hacker News
+  published: '2026-10-09T08:11:33Z'
+- title: FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure
+    Intrusions
+  url: https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html
+  source: The Hacker News
+  published: '2026-10-09T06:39:29Z'
 - title: FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen
     Emails
   url: https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html
@@ -55,20 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html
   source: The Hacker News
   published: '2026-10-07T18:48:17Z'
-- title: Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT
-    and Stealer
-  url: https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html
-  source: The Hacker News
-  published: '2026-10-07T17:43:20Z'
-- title: SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances
-  url: https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html
-  source: The Hacker News
-  published: '2026-10-07T16:17:44Z'
-- title: Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely
-  url: https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html
-  source: The Hacker News
-  published: '2026-10-07T15:34:53Z'
-- title: PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet
-  url: https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html
-  source: The Hacker News
-  published: '2026-10-07T15:33:51Z'
