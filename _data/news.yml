@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-10-08T18:13:21Z'
+updated_at: '2026-10-09T00:52:15Z'
 items:
+- title: FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen
+    Emails
+  url: https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html
+  source: The Hacker News
+  published: '2026-10-08T18:32:21Z'
+- title: 'ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker
+    Tools and 12 More Stories'
+  url: https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
+  source: The Hacker News
+  published: '2026-10-08T17:58:02Z'
 - title: Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase
     Attacks
   url: https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html
@@ -62,12 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html
   source: The Hacker News
   published: '2026-10-07T15:33:51Z'
-- title: The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow
-  url: https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html
-  source: The Hacker News
-  published: '2026-10-07T11:57:05Z'
-- title: FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device
-    Credentials
-  url: https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html
-  source: The Hacker News
-  published: '2026-10-07T11:56:56Z'
