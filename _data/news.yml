@@ -1,6 +1,37 @@
 ---
-updated_at: '2026-10-09T09:50:18Z'
+updated_at: '2026-10-09T17:46:18Z'
 items:
+- title: P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
+  url: https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
+  source: The Hacker News
+  published: '2026-10-09T16:29:55Z'
+- title: TP-Link Sued by Four More U.S. States Over Router Security and China Ties
+  url: https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html
+  source: The Hacker News
+  published: '2026-10-09T13:22:53Z'
+- title: Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That
+    Gives Root Access
+  url: https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html
+  source: The Hacker News
+  published: '2026-10-09T12:59:22Z'
+- title: Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects
+  url: https://thehackernews.com/2026/10/anthropic-launches-free-ai.html
+  source: The Hacker News
+  published: '2026-10-09T12:47:28Z'
+- title: Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft
+    Edge
+  url: https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
+  source: The Hacker News
+  published: '2026-10-09T12:47:26Z'
+- title: Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal
+    Agencies
+  url: https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html
+  source: The Hacker News
+  published: '2026-10-09T12:21:51Z'
+- title: 'The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition'
+  url: https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html
+  source: The Hacker News
+  published: '2026-10-09T11:30:00Z'
 - title: GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format
     Keys
   url: https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
@@ -40,37 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html
   source: The Hacker News
   published: '2026-10-08T15:26:56Z'
-- title: ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial
-    Firms
-  url: https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html
-  source: The Hacker News
-  published: '2026-10-08T14:12:34Z'
-- title: Wazza Phishkit Targets Banking, Government, and Manufacturing Across the
-    US, EU, and Australia
-  url: https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html
-  source: The Hacker News
-  published: '2026-10-08T10:30:00Z'
-- title: 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery
-    Phrases
-  url: https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
-  source: The Hacker News
-  published: '2026-10-08T09:46:32Z'
-- title: U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
-  url: https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html
-  source: The Hacker News
-  published: '2026-10-08T07:42:04Z'
-- title: MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms
-    to Decrypt Data
-  url: https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html
-  source: The Hacker News
-  published: '2026-10-08T07:41:44Z'
-- title: Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing
-    Worm
-  url: https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html
-  source: The Hacker News
-  published: '2026-10-08T05:46:20Z'
-- title: Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for
-    Google Domains
-  url: https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html
-  source: The Hacker News
-  published: '2026-10-07T18:48:17Z'
