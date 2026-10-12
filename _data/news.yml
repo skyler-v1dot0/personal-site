@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-12T13:59:01Z'
+updated_at: '2026-10-12T22:19:39Z'
 items:
+- title: "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling
+    Malware and More"
+  url: https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html
+  source: The Hacker News
+  published: '2026-10-12T15:16:26Z'
 - title: 'Bring Your Own Agent: Your Employees'' Assistants Are Already Logged In'
   url: https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
   source: The Hacker News
@@ -67,8 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
   source: The Hacker News
   published: '2026-10-09T12:47:26Z'
-- title: Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal
-    Agencies
-  url: https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html
-  source: The Hacker News
-  published: '2026-10-09T12:21:51Z'
