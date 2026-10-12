@@ -1,6 +1,30 @@
 ---
-updated_at: '2026-10-12T03:29:13Z'
+updated_at: '2026-10-12T13:59:01Z'
 items:
+- title: 'Bring Your Own Agent: Your Employees'' Assistants Are Already Logged In'
+  url: https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
+  source: The Hacker News
+  published: '2026-10-12T11:55:00Z'
+- title: Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid
+    Fund Theft Reports
+  url: https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html
+  source: The Hacker News
+  published: '2026-10-12T11:21:48Z'
+- title: Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After
+    Patch
+  url: https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+  source: The Hacker News
+  published: '2026-10-12T10:36:56Z'
+- title: Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated
+    RCE
+  url: https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
+  source: The Hacker News
+  published: '2026-10-12T09:02:14Z'
+- title: CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian
+    Records
+  url: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+  source: The Hacker News
+  published: '2026-10-12T07:26:12Z'
 - title: P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
   url: https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
   source: The Hacker News
@@ -48,26 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html
   source: The Hacker News
   published: '2026-10-09T12:21:51Z'
-- title: 'The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition'
-  url: https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html
-  source: The Hacker News
-  published: '2026-10-09T11:30:00Z'
-- title: GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format
-    Keys
-  url: https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
-  source: The Hacker News
-  published: '2026-10-09T09:03:24Z'
-- title: Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at
-    Pwn2Own
-  url: https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html
-  source: The Hacker News
-  published: '2026-10-09T08:26:17Z'
-- title: Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments
-  url: https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html
-  source: The Hacker News
-  published: '2026-10-09T08:11:33Z'
-- title: FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure
-    Intrusions
-  url: https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html
-  source: The Hacker News
-  published: '2026-10-09T06:39:29Z'
