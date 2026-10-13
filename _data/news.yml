@@ -1,6 +1,35 @@
 ---
-updated_at: '2026-10-13T13:14:40Z'
+updated_at: '2026-10-13T20:27:04Z'
 items:
+- title: Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
+  url: https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html
+  source: The Hacker News
+  published: '2026-10-13T18:20:57Z'
+- title: Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images
+    as Another
+  url: https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html
+  source: The Hacker News
+  published: '2026-10-13T18:03:18Z'
+- title: Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only
+    Two Patched So Far
+  url: https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
+  source: The Hacker News
+  published: '2026-10-13T17:33:11Z'
+- title: SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2
+    Credential Theft
+  url: https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html
+  source: The Hacker News
+  published: '2026-10-13T17:28:50Z'
+- title: GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable
+    to Hijacking
+  url: https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html
+  source: The Hacker News
+  published: '2026-10-13T16:18:18Z'
+- title: Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual
+    Orientation
+  url: https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html
+  source: The Hacker News
+  published: '2026-10-13T13:12:32Z'
 - title: "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity
     Controls"
   url: https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html
@@ -43,32 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
   source: The Hacker News
   published: '2026-10-12T11:55:00Z'
-- title: Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid
-    Fund Theft Reports
-  url: https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html
-  source: The Hacker News
-  published: '2026-10-12T11:21:48Z'
-- title: Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After
-    Patch
-  url: https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
-  source: The Hacker News
-  published: '2026-10-12T10:36:56Z'
-- title: Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated
-    RCE
-  url: https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
-  source: The Hacker News
-  published: '2026-10-12T09:02:14Z'
-- title: CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian
-    Records
-  url: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
-  source: The Hacker News
-  published: '2026-10-12T07:26:12Z'
-- title: P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
-  url: https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
-  source: The Hacker News
-  published: '2026-10-11T04:24:34Z'
-- title: 'The Third-Party Agent Problem: Why Security Built for AI You Chose Misses
-    the Agents You Didn''t'
-  url: https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html
-  source: The Hacker News
-  published: '2026-10-10T11:00:00Z'
