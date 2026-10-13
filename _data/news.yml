@@ -1,6 +1,39 @@
 ---
-updated_at: '2026-10-13T04:43:34Z'
+updated_at: '2026-10-13T13:14:40Z'
 items:
+- title: "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity
+    Controls"
+  url: https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html
+  source: The Hacker News
+  published: '2026-10-13T11:57:06Z'
+- title: LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network
+  url: https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html
+  source: The Hacker News
+  published: '2026-10-13T11:09:10Z'
+- title: 'Product Walkthrough: Bitdefender AI Visibility and Control'
+  url: https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html
+  source: The Hacker News
+  published: '2026-10-13T10:30:00Z'
+- title: Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss
+    Controllers
+  url: https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html
+  source: The Hacker News
+  published: '2026-10-13T08:48:41Z'
+- title: Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin
+    Control
+  url: https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html
+  source: The Hacker News
+  published: '2026-10-13T08:44:01Z'
+- title: GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server
+    Code
+  url: https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html
+  source: The Hacker News
+  published: '2026-10-13T08:43:37Z'
+- title: Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into
+    Residential Proxies
+  url: https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html
+  source: The Hacker News
+  published: '2026-10-13T06:00:11Z'
 - title: "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling
     Malware and More"
   url: https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html
@@ -39,36 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html
   source: The Hacker News
   published: '2026-10-10T11:00:00Z'
-- title: Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits
-    Injection Flaws
-  url: https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html
-  source: The Hacker News
-  published: '2026-10-10T09:18:45Z'
-- title: Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands
-    of Repositories
-  url: https://thehackernews.com/2026/10/credential-stealing-github-actions.html
-  source: The Hacker News
-  published: '2026-10-09T19:14:28Z'
-- title: FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs
-    Portal Hack
-  url: https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html
-  source: The Hacker News
-  published: '2026-10-09T17:45:26Z'
-- title: TP-Link Sued by Four More U.S. States Over Router Security and China Ties
-  url: https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html
-  source: The Hacker News
-  published: '2026-10-09T13:22:53Z'
-- title: Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That
-    Gives Root Access
-  url: https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html
-  source: The Hacker News
-  published: '2026-10-09T12:59:22Z'
-- title: Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects
-  url: https://thehackernews.com/2026/10/anthropic-launches-free-ai.html
-  source: The Hacker News
-  published: '2026-10-09T12:47:28Z'
-- title: Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft
-    Edge
-  url: https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
-  source: The Hacker News
-  published: '2026-10-09T12:47:26Z'
