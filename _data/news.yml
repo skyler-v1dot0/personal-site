@@ -1,6 +1,20 @@
 ---
-updated_at: '2026-10-14T00:02:22Z'
+updated_at: '2026-10-14T08:14:55Z'
 items:
+- title: Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen
+    Enclave
+  url: https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html
+  source: The Hacker News
+  published: '2026-10-14T05:52:28Z'
+- title: Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug
+  url: https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html
+  source: The Hacker News
+  published: '2026-10-14T04:34:43Z'
+- title: OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive
+    Conference Room
+  url: https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html
+  source: The Hacker News
+  published: '2026-10-14T01:59:25Z'
 - title: Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
   url: https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html
   source: The Hacker News
@@ -58,17 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html
   source: The Hacker News
   published: '2026-10-13T08:43:37Z'
-- title: Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into
-    Residential Proxies
-  url: https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html
-  source: The Hacker News
-  published: '2026-10-13T06:00:11Z'
-- title: "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling
-    Malware and More"
-  url: https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html
-  source: The Hacker News
-  published: '2026-10-12T15:16:26Z'
-- title: 'Bring Your Own Agent: Your Employees'' Assistants Are Already Logged In'
-  url: https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
-  source: The Hacker News
-  published: '2026-10-12T11:55:00Z'
