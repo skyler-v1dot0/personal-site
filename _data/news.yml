@@ -1,6 +1,39 @@
 ---
-updated_at: '2026-10-14T08:14:55Z'
+updated_at: '2026-10-14T14:13:41Z'
 items:
+- title: CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit
+    Attempts
+  url: https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html
+  source: The Hacker News
+  published: '2026-10-14T12:30:42Z'
+- title: curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution
+  url: https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html
+  source: The Hacker News
+  published: '2026-10-14T12:13:36Z'
+- title: How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team
+  url: https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html
+  source: The Hacker News
+  published: '2026-10-14T11:50:00Z'
+- title: Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain
+    Exploit in Six Days
+  url: https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html
+  source: The Hacker News
+  published: '2026-10-14T11:19:02Z'
+- title: Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In
+    Security Checks
+  url: https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html
+  source: The Hacker News
+  published: '2026-10-14T11:08:22Z'
+- title: An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the
+    Easy Part.
+  url: https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html
+  source: The Hacker News
+  published: '2026-10-14T11:00:00Z'
+- title: AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest
+    Out to the Host
+  url: https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html
+  source: The Hacker News
+  published: '2026-10-14T07:46:57Z'
 - title: Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen
     Enclave
   url: https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html
@@ -39,36 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html
   source: The Hacker News
   published: '2026-10-13T16:18:18Z'
-- title: Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual
-    Orientation
-  url: https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html
-  source: The Hacker News
-  published: '2026-10-13T13:12:32Z'
-- title: "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity
-    Controls"
-  url: https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html
-  source: The Hacker News
-  published: '2026-10-13T11:57:06Z'
-- title: LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network
-  url: https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html
-  source: The Hacker News
-  published: '2026-10-13T11:09:10Z'
-- title: 'Product Walkthrough: Bitdefender AI Visibility and Control'
-  url: https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html
-  source: The Hacker News
-  published: '2026-10-13T10:30:00Z'
-- title: Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss
-    Controllers
-  url: https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html
-  source: The Hacker News
-  published: '2026-10-13T08:48:41Z'
-- title: Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin
-    Control
-  url: https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html
-  source: The Hacker News
-  published: '2026-10-13T08:44:01Z'
-- title: GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server
-    Code
-  url: https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html
-  source: The Hacker News
-  published: '2026-10-13T08:43:37Z'
