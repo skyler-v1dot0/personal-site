@@ -1,6 +1,15 @@
 ---
-updated_at: '2026-10-15T18:47:28Z'
+updated_at: '2026-10-15T23:27:29Z'
 items:
+- title: Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
+  url: https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
+  source: The Hacker News
+  published: '2026-10-15T20:24:36Z'
+- title: 'ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing
+    Backdoor + 23 More'
+  url: https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html
+  source: The Hacker News
+  published: '2026-10-15T18:49:33Z'
 - title: Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to
     Targeted Online Ads
   url: https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html
@@ -64,13 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html
   source: The Hacker News
   published: '2026-10-15T06:43:08Z'
-- title: Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway
-    Vulnerability
-  url: https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html
-  source: The Hacker News
-  published: '2026-10-14T18:38:56Z'
-- title: Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in
-    CODE App
-  url: https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html
-  source: The Hacker News
-  published: '2026-10-14T17:38:31Z'
