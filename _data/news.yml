@@ -1,6 +1,10 @@
 ---
-updated_at: '2026-10-15T02:31:06Z'
+updated_at: '2026-10-15T07:52:16Z'
 items:
+- title: Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
+  url: https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html
+  source: The Hacker News
+  published: '2026-10-15T06:17:58Z'
 - title: Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway
     Vulnerability
   url: https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html
@@ -67,7 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html
   source: The Hacker News
   published: '2026-10-14T01:59:25Z'
-- title: Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
-  url: https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html
-  source: The Hacker News
-  published: '2026-10-13T18:20:57Z'
