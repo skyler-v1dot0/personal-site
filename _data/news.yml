@@ -1,6 +1,21 @@
 ---
-updated_at: '2026-10-16T13:38:59Z'
+updated_at: '2026-10-16T18:32:34Z'
 items:
+- title: Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver
+    a Backdoor
+  url: https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
+  source: The Hacker News
+  published: '2026-10-16T16:43:39Z'
+- title: UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With
+    Google AitM Phishing
+  url: https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html
+  source: The Hacker News
+  published: '2026-10-16T16:16:44Z'
+- title: OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy
+    Smart Contract
+  url: https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html
+  source: The Hacker News
+  published: '2026-10-16T14:03:04Z'
 - title: AI Decision Models and Their Impact on AI SOC Platforms
   url: https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html
   source: The Hacker News
@@ -59,16 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html
   source: The Hacker News
   published: '2026-10-15T12:07:20Z'
-- title: 'Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents
-    Early'
-  url: https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html
-  source: The Hacker News
-  published: '2026-10-15T11:46:59Z'
-- title: Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
-  url: https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html
-  source: The Hacker News
-  published: '2026-10-15T11:46:49Z'
-- title: Why AI Confidence Is Not Validation
-  url: https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html
-  source: The Hacker News
-  published: '2026-10-15T11:04:35Z'
