@@ -1,6 +1,10 @@
 ---
-updated_at: '2026-10-16T07:43:27Z'
+updated_at: '2026-10-16T13:38:59Z'
 items:
+- title: AI Decision Models and Their Impact on AI SOC Platforms
+  url: https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html
+  source: The Hacker News
+  published: '2026-10-16T11:30:00Z'
 - title: China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support
     Servers
   url: https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
@@ -68,8 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html
   source: The Hacker News
   published: '2026-10-15T11:04:35Z'
-- title: India Mandates Registered Caller Name Display on 4G and Newer Networks From
-    November 1
-  url: https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html
-  source: The Hacker News
-  published: '2026-10-15T10:42:16Z'
