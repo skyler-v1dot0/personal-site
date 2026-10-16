@@ -1,6 +1,21 @@
 ---
-updated_at: '2026-10-16T02:25:42Z'
+updated_at: '2026-10-16T07:43:27Z'
 items:
+- title: China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support
+    Servers
+  url: https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
+  source: The Hacker News
+  published: '2026-10-16T06:55:55Z'
+- title: CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During
+    Testing
+  url: https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html
+  source: The Hacker News
+  published: '2026-10-16T06:53:09Z'
+- title: PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN
+    Sessions
+  url: https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
+  source: The Hacker News
+  published: '2026-10-16T04:59:36Z'
 - title: Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
   url: https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
   source: The Hacker News
@@ -58,18 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html
   source: The Hacker News
   published: '2026-10-15T10:42:16Z'
-- title: GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000
-    Repositories
-  url: https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html
-  source: The Hacker News
-  published: '2026-10-15T08:45:10Z'
-- title: Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit
-    Attempts
-  url: https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html
-  source: The Hacker News
-  published: '2026-10-15T07:07:05Z'
-- title: AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete
-    Patches
-  url: https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html
-  source: The Hacker News
-  published: '2026-10-15T06:43:08Z'
