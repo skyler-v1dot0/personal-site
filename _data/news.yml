@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-16T18:32:34Z'
+updated_at: '2026-10-16T23:10:05Z'
 items:
+- title: Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory
+    Bug
+  url: https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html
+  source: The Hacker News
+  published: '2026-10-16T17:48:45Z'
 - title: Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver
     a Backdoor
   url: https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
@@ -69,8 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html
   source: The Hacker News
   published: '2026-10-15T12:28:13Z'
-- title: Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed
-    Modules
-  url: https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html
-  source: The Hacker News
-  published: '2026-10-15T12:07:20Z'
