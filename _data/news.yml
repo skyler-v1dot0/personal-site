@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-17T02:18:11Z'
+updated_at: '2026-10-17T07:21:28Z'
 items:
+- title: Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft
+    365 Tenants
+  url: https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
+  source: The Hacker News
+  published: '2026-10-17T06:16:46Z'
 - title: Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory
     Bug
   url: https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html
@@ -69,8 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html
   source: The Hacker News
   published: '2026-10-15T12:58:05Z'
-- title: Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and
-    SVG Processing
-  url: https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html
-  source: The Hacker News
-  published: '2026-10-15T12:28:13Z'
