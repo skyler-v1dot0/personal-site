@@ -1,6 +1,10 @@
 ---
-updated_at: '2026-10-17T07:21:28Z'
+updated_at: '2026-10-17T12:35:52Z'
 items:
+- title: MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+  url: https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
+  source: The Hacker News
+  published: '2026-10-17T11:11:56Z'
 - title: Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft
     365 Tenants
   url: https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
@@ -69,8 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html
   source: The Hacker News
   published: '2026-10-15T14:11:36Z'
-- title: NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert
-    Checks
-  url: https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html
-  source: The Hacker News
-  published: '2026-10-15T12:58:05Z'
