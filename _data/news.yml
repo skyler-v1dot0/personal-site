@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-18T07:35:48Z'
+updated_at: '2026-10-18T12:53:47Z'
 items:
+- title: ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365
+    Tenants
+  url: https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+  source: The Hacker News
+  published: '2026-10-18T08:23:02Z'
 - title: MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
   url: https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
   source: The Hacker News
@@ -68,8 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html
   source: The Hacker News
   published: '2026-10-15T16:00:26Z'
-- title: Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech
-    Support Scams
-  url: https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html
-  source: The Hacker News
-  published: '2026-10-15T14:11:36Z'
