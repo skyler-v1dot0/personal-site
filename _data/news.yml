@@ -1,6 +1,26 @@
 ---
-updated_at: '2026-10-19T08:18:38Z'
+updated_at: '2026-10-19T16:02:49Z'
 items:
+- title: "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets
+    Hit and More"
+  url: https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html
+  source: The Hacker News
+  published: '2026-10-19T14:14:07Z'
+- title: GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub
+    Repositories
+  url: https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html
+  source: The Hacker News
+  published: '2026-10-19T13:05:45Z'
+- title: 'From Email-to-Case to the Boardroom: How Inherited Agents Break Governance
+    Built for Software'
+  url: https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html
+  source: The Hacker News
+  published: '2026-10-19T11:50:00Z'
+- title: Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent
+    Traffic
+  url: https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html
+  source: The Hacker News
+  published: '2026-10-19T10:06:40Z'
 - title: Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on
     Routers
   url: https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
@@ -54,22 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
   source: The Hacker News
   published: '2026-10-16T06:55:55Z'
-- title: CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During
-    Testing
-  url: https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html
-  source: The Hacker News
-  published: '2026-10-16T06:53:09Z'
-- title: PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN
-    Sessions
-  url: https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
-  source: The Hacker News
-  published: '2026-10-16T04:59:36Z'
-- title: Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
-  url: https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
-  source: The Hacker News
-  published: '2026-10-15T20:24:36Z'
-- title: 'ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing
-    Backdoor + 23 More'
-  url: https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html
-  source: The Hacker News
-  published: '2026-10-15T18:49:33Z'
