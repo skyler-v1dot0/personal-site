@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-10-19T02:33:27Z'
+updated_at: '2026-10-19T08:18:38Z'
 items:
+- title: Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on
+    Routers
+  url: https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
+  source: The Hacker News
+  published: '2026-10-19T06:29:44Z'
+- title: OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API
+    Keys
+  url: https://thehackernews.com/2026/10/opencode-console-breach-may-have.html
+  source: The Hacker News
+  published: '2026-10-19T06:07:08Z'
 - title: ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365
     Tenants
   url: https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
@@ -63,13 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html
   source: The Hacker News
   published: '2026-10-15T18:49:33Z'
-- title: Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to
-    Targeted Online Ads
-  url: https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html
-  source: The Hacker News
-  published: '2026-10-15T16:01:57Z'
-- title: Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government
-    Attacks
-  url: https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html
-  source: The Hacker News
-  published: '2026-10-15T16:00:26Z'
