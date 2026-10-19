@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-10-19T16:02:49Z'
+updated_at: '2026-10-19T21:52:39Z'
 items:
+- title: Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy
+    Backdoor
+  url: https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html
+  source: The Hacker News
+  published: '2026-10-19T17:32:13Z'
+- title: Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring
+    Backdoor
+  url: https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html
+  source: The Hacker News
+  published: '2026-10-19T16:28:47Z'
 - title: "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets
     Hit and More"
   url: https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html
@@ -65,12 +75,3 @@ items:
   url: https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html
   source: The Hacker News
   published: '2026-10-16T14:03:04Z'
-- title: AI Decision Models and Their Impact on AI SOC Platforms
-  url: https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html
-  source: The Hacker News
-  published: '2026-10-16T11:30:00Z'
-- title: China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support
-    Servers
-  url: https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
-  source: The Hacker News
-  published: '2026-10-16T06:55:55Z'
