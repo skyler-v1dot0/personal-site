@@ -1,6 +1,39 @@
 ---
-updated_at: '2026-10-20T08:03:04Z'
+updated_at: '2026-10-20T13:59:35Z'
 items:
+- title: Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone
+    Days Before Election
+  url: https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html
+  source: The Hacker News
+  published: '2026-10-20T12:59:44Z'
+- title: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend
+    Privacy Regulators
+  url: https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html
+  source: The Hacker News
+  published: '2026-10-20T11:41:06Z'
+- title: What Security Teams Can Do To Tame Wild Code
+  url: https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html
+  source: The Hacker News
+  published: '2026-10-20T11:33:04Z'
+- title: Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security
+    Concerns
+  url: https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html
+  source: The Hacker News
+  published: '2026-10-20T11:32:59Z'
+- title: Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New
+    Reflective Loader
+  url: https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html
+  source: The Hacker News
+  published: '2026-10-20T11:06:25Z'
+- title: ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security
+    Incident
+  url: https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html
+  source: The Hacker News
+  published: '2026-10-20T10:56:08Z'
+- title: Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
+  url: https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
+  source: The Hacker News
+  published: '2026-10-20T08:21:29Z'
 - title: ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote
     Access Trojan
   url: https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
@@ -40,37 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html
   source: The Hacker News
   published: '2026-10-19T11:50:00Z'
-- title: Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent
-    Traffic
-  url: https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html
-  source: The Hacker News
-  published: '2026-10-19T10:06:40Z'
-- title: Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on
-    Routers
-  url: https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
-  source: The Hacker News
-  published: '2026-10-19T06:29:44Z'
-- title: OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API
-    Keys
-  url: https://thehackernews.com/2026/10/opencode-console-breach-may-have.html
-  source: The Hacker News
-  published: '2026-10-19T06:07:08Z'
-- title: ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365
-    Tenants
-  url: https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
-  source: The Hacker News
-  published: '2026-10-18T08:23:02Z'
-- title: MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
-  url: https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
-  source: The Hacker News
-  published: '2026-10-17T11:11:56Z'
-- title: Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft
-    365 Tenants
-  url: https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
-  source: The Hacker News
-  published: '2026-10-17T06:16:46Z'
-- title: Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory
-    Bug
-  url: https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html
-  source: The Hacker News
-  published: '2026-10-16T17:48:45Z'
