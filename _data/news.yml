@@ -1,6 +1,47 @@
 ---
-updated_at: '2026-10-21T08:08:53Z'
+updated_at: '2026-10-21T14:15:32Z'
 items:
+- title: Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious
+    Commands
+  url: https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html
+  source: The Hacker News
+  published: '2026-10-21T13:15:09Z'
+- title: China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy
+    Backdoors
+  url: https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html
+  source: The Hacker News
+  published: '2026-10-21T12:05:00Z'
+- title: Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection,
+    Proofpoint Reports
+  url: https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html
+  source: The Hacker News
+  published: '2026-10-21T11:53:34Z'
+- title: 'PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch,
+    and What Doesn''t'
+  url: https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html
+  source: The Hacker News
+  published: '2026-10-21T10:36:53Z'
+- title: The Harness Is the Hard Part of Agentic Pentesting
+  url: https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html
+  source: The Hacker News
+  published: '2026-10-21T10:32:40Z'
+- title: Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections
+  url: https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html
+  source: The Hacker News
+  published: '2026-10-21T10:30:27Z'
+- title: 'PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency
+    Security Alert'
+  url: https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
+  source: The Hacker News
+  published: '2026-10-21T09:05:17Z'
+- title: Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites
+  url: https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html
+  source: The Hacker News
+  published: '2026-10-21T09:01:12Z'
+- title: U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases
+  url: https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html
+  source: The Hacker News
+  published: '2026-10-21T08:04:17Z'
 - title: State Bank of India Confirms Data Leak After 3,897 Customer Records Found
     on Dark Web
   url: https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html
@@ -16,11 +57,6 @@ items:
   url: https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html
   source: The Hacker News
   published: '2026-10-21T06:05:15Z'
-- title: 'PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency
-    Security Alert'
-  url: https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
-  source: The Hacker News
-  published: '2026-10-21T04:57:50Z'
 - title: Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers
     and Software
   url: https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
@@ -36,41 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html
   source: The Hacker News
   published: '2026-10-20T15:32:27Z'
-- title: Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over
-    1,200 Sites
-  url: https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html
-  source: The Hacker News
-  published: '2026-10-20T14:07:17Z'
-- title: Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone
-    Days Before Election
-  url: https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html
-  source: The Hacker News
-  published: '2026-10-20T12:59:44Z'
-- title: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend
-    Privacy Regulators
-  url: https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html
-  source: The Hacker News
-  published: '2026-10-20T11:41:06Z'
-- title: What Security Teams Can Do To Tame Wild Code
-  url: https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html
-  source: The Hacker News
-  published: '2026-10-20T11:33:04Z'
-- title: Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security
-    Concerns
-  url: https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html
-  source: The Hacker News
-  published: '2026-10-20T11:32:59Z'
-- title: Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New
-    Reflective Loader
-  url: https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html
-  source: The Hacker News
-  published: '2026-10-20T11:06:25Z'
-- title: ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security
-    Incident
-  url: https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html
-  source: The Hacker News
-  published: '2026-10-20T10:56:08Z'
-- title: Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
-  url: https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
-  source: The Hacker News
-  published: '2026-10-20T08:21:29Z'
