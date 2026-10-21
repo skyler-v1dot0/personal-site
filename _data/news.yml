@@ -1,6 +1,26 @@
 ---
-updated_at: '2026-10-21T02:39:59Z'
+updated_at: '2026-10-21T08:08:53Z'
 items:
+- title: State Bank of India Confirms Data Leak After 3,897 Customer Records Found
+    on Dark Web
+  url: https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html
+  source: The Hacker News
+  published: '2026-10-21T07:44:22Z'
+- title: CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and
+    SiteGuard Flaws
+  url: https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html
+  source: The Hacker News
+  published: '2026-10-21T07:26:49Z'
+- title: Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare
+    Intrusion
+  url: https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html
+  source: The Hacker News
+  published: '2026-10-21T06:05:15Z'
+- title: 'PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency
+    Security Alert'
+  url: https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
+  source: The Hacker News
+  published: '2026-10-21T04:57:50Z'
 - title: Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers
     and Software
   url: https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
@@ -54,22 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
   source: The Hacker News
   published: '2026-10-20T08:21:29Z'
-- title: ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote
-    Access Trojan
-  url: https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
-  source: The Hacker News
-  published: '2026-10-20T07:11:45Z'
-- title: Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge
-  url: https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html
-  source: The Hacker News
-  published: '2026-10-20T05:53:16Z'
-- title: Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other
-    Malware
-  url: https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html
-  source: The Hacker News
-  published: '2026-10-20T04:05:58Z'
-- title: Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy
-    Backdoor
-  url: https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html
-  source: The Hacker News
-  published: '2026-10-19T17:32:13Z'
