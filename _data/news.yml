@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-23T18:48:29Z'
+updated_at: '2026-10-23T23:41:13Z'
 items:
+- title: BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing
+    Revocations
+  url: https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
+  source: The Hacker News
+  published: '2026-10-23T18:50:13Z'
 - title: Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE
     Flaws
   url: https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
@@ -67,7 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html
   source: The Hacker News
   published: '2026-10-22T17:01:53Z'
-- title: Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations
-  url: https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html
-  source: The Hacker News
-  published: '2026-10-22T16:12:31Z'
