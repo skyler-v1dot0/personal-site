@@ -1,11 +1,26 @@
 ---
-updated_at: '2026-10-23T13:58:10Z'
+updated_at: '2026-10-23T18:48:29Z'
 items:
-- title: PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches
+- title: Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE
+    Flaws
+  url: https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
+  source: The Hacker News
+  published: '2026-10-23T17:54:08Z'
+- title: Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to
+    Execute Intrusions
+  url: https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html
+  source: The Hacker News
+  published: '2026-10-23T17:50:47Z'
+- title: Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
+  url: https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html
+  source: The Hacker News
+  published: '2026-10-23T13:50:56Z'
+- title: PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell
+    Patches
   url: https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
   source: The Hacker News
   published: '2026-10-23T11:25:43Z'
-- title: Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine
+- title: Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine
     Attack
   url: https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html
   source: The Hacker News
@@ -56,18 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html
   source: The Hacker News
   published: '2026-10-22T16:12:31Z'
-- title: INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global
-    Crackdown
-  url: https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html
-  source: The Hacker News
-  published: '2026-10-22T13:38:22Z'
-- title: Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential
-    Rotation
-  url: https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html
-  source: The Hacker News
-  published: '2026-10-22T11:15:42Z'
-- title: OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows
-    and WSL
-  url: https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html
-  source: The Hacker News
-  published: '2026-10-22T10:44:05Z'
