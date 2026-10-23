@@ -1,11 +1,29 @@
 ---
-updated_at: '2026-10-23T08:07:29Z'
+updated_at: '2026-10-23T13:58:10Z'
 items:
+- title: PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches
+  url: https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
+  source: The Hacker News
+  published: '2026-10-23T11:25:43Z'
+- title: Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine
+    Attack
+  url: https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html
+  source: The Hacker News
+  published: '2026-10-23T11:11:23Z'
+- title: Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution
+    via a Crafted Image
+  url: https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html
+  source: The Hacker News
+  published: '2026-10-23T09:36:00Z'
 - title: Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted
     Brotli Data
   url: https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html
   source: The Hacker News
-  published: '2026-10-23T07:50:01Z'
+  published: '2026-10-23T08:40:43Z'
+- title: Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances
+  url: https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
+  source: The Hacker News
+  published: '2026-10-23T08:35:45Z'
 - title: PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai
     Malware
   url: https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
@@ -53,23 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html
   source: The Hacker News
   published: '2026-10-22T10:44:05Z'
-- title: LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package
-    Release
-  url: https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html
-  source: The Hacker News
-  published: '2026-10-22T08:28:48Z'
-- title: Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported
-    Versions
-  url: https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html
-  source: The Hacker News
-  published: '2026-10-22T07:47:22Z'
-- title: New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory
-    Amplification
-  url: https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html
-  source: The Hacker News
-  published: '2026-10-22T06:38:31Z'
-- title: Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were
-    Publicly Disclosed
-  url: https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html
-  source: The Hacker News
-  published: '2026-10-22T06:34:10Z'
