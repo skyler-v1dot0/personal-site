@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-10-23T02:42:12Z'
+updated_at: '2026-10-23T08:07:29Z'
 items:
+- title: Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted
+    Brotli Data
+  url: https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html
+  source: The Hacker News
+  published: '2026-10-23T07:50:01Z'
+- title: PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai
+    Malware
+  url: https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
+  source: The Hacker News
+  published: '2026-10-23T07:40:45Z'
 - title: 'The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat'
   url: https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html
   source: The Hacker News
@@ -63,12 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html
   source: The Hacker News
   published: '2026-10-22T06:34:10Z'
-- title: China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
-  url: https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html
-  source: The Hacker News
-  published: '2026-10-22T04:21:26Z'
-- title: Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12
-    Years of Releases
-  url: https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html
-  source: The Hacker News
-  published: '2026-10-21T18:57:34Z'
