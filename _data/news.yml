@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-24T02:39:27Z'
+updated_at: '2026-10-24T07:46:13Z'
 items:
+- title: CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and
+    Arista VeloCloud
+  url: https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
+  source: The Hacker News
+  published: '2026-10-24T06:25:57Z'
 - title: BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing
     Revocations
   url: https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
@@ -67,8 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html
   source: The Hacker News
   published: '2026-10-22T17:45:44Z'
-- title: Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before
-    Kernel Fixes
-  url: https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html
-  source: The Hacker News
-  published: '2026-10-22T17:01:53Z'
