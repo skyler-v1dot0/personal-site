@@ -1,6 +1,26 @@
 ---
-updated_at: '2026-10-24T07:46:13Z'
+updated_at: '2026-10-24T13:00:33Z'
 items:
+- title: Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other
+    Widely Used Software
+  url: https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
+  source: The Hacker News
+  published: '2026-10-24T11:09:29Z'
+- title: Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release
+    Pipeline
+  url: https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
+  source: The Hacker News
+  published: '2026-10-24T11:03:33Z'
+- title: Google Says Gmail and Photos Data Shared With AI Search Could Be Used for
+    Targeted Ads
+  url: https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html
+  source: The Hacker News
+  published: '2026-10-24T10:36:33Z'
+- title: Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time
+    Updater That Could Fuel a Botnet
+  url: https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html
+  source: The Hacker News
+  published: '2026-10-24T09:04:24Z'
 - title: CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and
     Arista VeloCloud
   url: https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
@@ -54,21 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
   source: The Hacker News
   published: '2026-10-23T07:40:45Z'
-- title: 'The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat'
-  url: https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html
-  source: The Hacker News
-  published: '2026-10-22T19:05:35Z'
-- title: Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
-  url: https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html
-  source: The Hacker News
-  published: '2026-10-22T19:05:17Z'
-- title: eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found
-    Easily Guessable
-  url: https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html
-  source: The Hacker News
-  published: '2026-10-22T18:12:43Z'
-- title: 'ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw,
-    Laravel Auth Bypass + 21 More'
-  url: https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html
-  source: The Hacker News
-  published: '2026-10-22T17:45:44Z'
