@@ -1,6 +1,10 @@
 ---
-updated_at: '2026-10-25T02:28:37Z'
+updated_at: '2026-10-25T07:56:51Z'
 items:
+- title: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
+  url: https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
+  source: The Hacker News
+  published: '2026-10-25T06:54:29Z'
 - title: Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other
     Widely Used Software
   url: https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
@@ -69,8 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
   source: The Hacker News
   published: '2026-10-23T08:35:45Z'
-- title: PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai
-    Malware
-  url: https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
-  source: The Hacker News
-  published: '2026-10-23T07:40:45Z'
