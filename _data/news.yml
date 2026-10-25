@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-10-25T18:00:14Z'
+updated_at: '2026-10-25T22:56:49Z'
 items:
+- title: Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other
+    Servers
+  url: https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+  source: The Hacker News
+  published: '2026-10-25T17:44:09Z'
+- title: PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs
+    of AI-Assisted Hacking
+  url: https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+  source: The Hacker News
+  published: '2026-10-25T17:19:46Z'
 - title: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
   url: https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
   source: The Hacker News
@@ -64,12 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html
   source: The Hacker News
   published: '2026-10-23T09:36:00Z'
-- title: Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted
-    Brotli Data
-  url: https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html
-  source: The Hacker News
-  published: '2026-10-23T08:40:43Z'
-- title: Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances
-  url: https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
-  source: The Hacker News
-  published: '2026-10-23T08:35:45Z'
