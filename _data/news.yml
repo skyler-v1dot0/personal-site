@@ -1,13 +1,18 @@
 ---
-updated_at: '2026-10-26T02:28:09Z'
+updated_at: '2026-10-26T08:18:48Z'
 items:
+- title: Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing
+    Malware
+  url: https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
+  source: The Hacker News
+  published: '2026-10-26T06:03:48Z'
 - title: Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other
     Servers
   url: https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
   source: The Hacker News
   published: '2026-10-25T17:44:09Z'
-- title: PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs
-    of AI-Assisted Hacking
+- title: PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning
+    Activity
   url: https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
   source: The Hacker News
   published: '2026-10-25T17:19:46Z'
@@ -69,8 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html
   source: The Hacker News
   published: '2026-10-23T11:11:23Z'
-- title: Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution
-    via a Crafted Image
-  url: https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html
-  source: The Hacker News
-  published: '2026-10-23T09:36:00Z'
