@@ -1,6 +1,34 @@
 ---
-updated_at: '2026-10-26T08:18:48Z'
+updated_at: '2026-10-26T15:39:33Z'
 items:
+- title: "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply
+    Chain Chaos and More"
+  url: https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html
+  source: The Hacker News
+  published: '2026-10-26T14:06:13Z'
+- title: Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape
+    Sandboxes
+  url: https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html
+  source: The Hacker News
+  published: '2026-10-26T11:52:41Z'
+- title: 'Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses'
+  url: https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html
+  source: The Hacker News
+  published: '2026-10-26T11:23:56Z'
+- title: uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat
+    Accounts
+  url: https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html
+  source: The Hacker News
+  published: '2026-10-26T09:54:02Z'
+- title: Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations
+  url: https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html
+  source: The Hacker News
+  published: '2026-10-26T08:35:51Z'
+- title: Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via
+    Actions Logs
+  url: https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html
+  source: The Hacker News
+  published: '2026-10-26T07:49:46Z'
 - title: Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing
     Malware
   url: https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
@@ -45,32 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
   source: The Hacker News
   published: '2026-10-24T06:25:57Z'
-- title: BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing
-    Revocations
-  url: https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
-  source: The Hacker News
-  published: '2026-10-23T18:50:13Z'
-- title: Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE
-    Flaws
-  url: https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
-  source: The Hacker News
-  published: '2026-10-23T17:54:08Z'
-- title: Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to
-    Execute Intrusions
-  url: https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html
-  source: The Hacker News
-  published: '2026-10-23T17:50:47Z'
-- title: Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
-  url: https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html
-  source: The Hacker News
-  published: '2026-10-23T13:50:56Z'
-- title: PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell
-    Patches
-  url: https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
-  source: The Hacker News
-  published: '2026-10-23T11:25:43Z'
-- title: Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine
-    Attack
-  url: https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html
-  source: The Hacker News
-  published: '2026-10-23T11:11:23Z'
