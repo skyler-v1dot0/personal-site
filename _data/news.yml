@@ -1,6 +1,24 @@
 ---
-updated_at: '2026-10-27T03:02:57Z'
+updated_at: '2026-10-27T11:18:56Z'
 items:
+- title: Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected
+    Computers
+  url: https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html
+  source: The Hacker News
+  published: '2026-10-27T09:33:06Z'
+- title: OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections
+  url: https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html
+  source: The Hacker News
+  published: '2026-10-27T08:22:43Z'
+- title: Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
+  url: https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html
+  source: The Hacker News
+  published: '2026-10-27T06:34:47Z'
+- title: CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote
+    Code Execution
+  url: https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html
+  source: The Hacker News
+  published: '2026-10-27T04:37:59Z'
 - title: Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly
     on Magento
   url: https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html
@@ -53,22 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
   source: The Hacker News
   published: '2026-10-25T17:44:09Z'
-- title: PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning
-    Activity
-  url: https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
-  source: The Hacker News
-  published: '2026-10-25T17:19:46Z'
-- title: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
-  url: https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
-  source: The Hacker News
-  published: '2026-10-25T06:54:29Z'
-- title: Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other
-    Widely Used Software
-  url: https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
-  source: The Hacker News
-  published: '2026-10-24T11:09:29Z'
-- title: Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release
-    Pipeline
-  url: https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
-  source: The Hacker News
-  published: '2026-10-24T11:03:33Z'
