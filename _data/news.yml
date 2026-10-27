@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-27T17:05:40Z'
+updated_at: '2026-10-27T21:38:43Z'
 items:
+- title: CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan
+    Targets
+  url: https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html
+  source: The Hacker News
+  published: '2026-10-27T18:26:46Z'
 - title: GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
   url: https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html
   source: The Hacker News
@@ -66,8 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html
   source: The Hacker News
   published: '2026-10-26T14:06:13Z'
-- title: Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape
-    Sandboxes
-  url: https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html
-  source: The Hacker News
-  published: '2026-10-26T11:52:41Z'
