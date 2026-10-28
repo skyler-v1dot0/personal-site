@@ -1,6 +1,24 @@
 ---
-updated_at: '2026-10-28T11:52:53Z'
+updated_at: '2026-10-28T17:41:44Z'
 items:
+- title: PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network
+  url: https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html
+  source: The Hacker News
+  published: '2026-10-28T16:02:45Z'
+- title: Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security
+    Patch
+  url: https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html
+  source: The Hacker News
+  published: '2026-10-28T12:48:03Z'
+- title: Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting
+    Servers
+  url: https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html
+  source: The Hacker News
+  published: '2026-10-28T11:50:00Z'
+- title: Wazuh and AI for Enhanced SOC Workflows
+  url: https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html
+  source: The Hacker News
+  published: '2026-10-28T11:30:00Z'
 - title: Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and
     Security Bypass
   url: https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html
@@ -55,22 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
   source: The Hacker News
   published: '2026-10-27T13:59:09Z'
-- title: Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account
-    Tokens
-  url: https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html
-  source: The Hacker News
-  published: '2026-10-27T12:09:50Z'
-- title: Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification
-    Key
-  url: https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html
-  source: The Hacker News
-  published: '2026-10-27T11:46:00Z'
-- title: AI-Generated Fake Login Pages Are Making Account Takeovers Easier
-  url: https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html
-  source: The Hacker News
-  published: '2026-10-27T11:32:46Z'
-- title: Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum
-    Encryption
-  url: https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
-  source: The Hacker News
-  published: '2026-10-27T11:32:31Z'
