@@ -1,6 +1,34 @@
 ---
-updated_at: '2026-10-29T03:40:10Z'
+updated_at: '2026-10-29T12:00:10Z'
 items:
+- title: Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
+  url: https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
+  source: The Hacker News
+  published: '2026-10-29T10:44:46Z'
+- title: GitHub Launches npm Firewall to Block Malicious Packages Before Installation
+  url: https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html
+  source: The Hacker News
+  published: '2026-10-29T10:26:33Z'
+- title: Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby
+    Left Open
+  url: https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
+  source: The Hacker News
+  published: '2026-10-29T09:05:39Z'
+- title: Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption
+    Keys
+  url: https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html
+  source: The Hacker News
+  published: '2026-10-29T08:24:22Z'
+- title: China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail
+    Visibility
+  url: https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html
+  source: The Hacker News
+  published: '2026-10-29T06:22:33Z'
+- title: Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks
+    Management Interfaces
+  url: https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html
+  source: The Hacker News
+  published: '2026-10-29T05:50:17Z'
 - title: Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation
     Campaigns
   url: https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html
@@ -44,33 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/american-organizations-under-attack.html
   source: The Hacker News
   published: '2026-10-28T10:30:00Z'
-- title: Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari,
-    Windows and Linux Exploits
-  url: https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html
-  source: The Hacker News
-  published: '2026-10-28T08:15:07Z'
-- title: FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money
-    Laundering
-  url: https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html
-  source: The Hacker News
-  published: '2026-10-28T07:37:50Z'
-- title: Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud
-    Breach
-  url: https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html
-  source: The Hacker News
-  published: '2026-10-28T07:13:21Z'
-- title: Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access
-    on Other Servers
-  url: https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html
-  source: The Hacker News
-  published: '2026-10-28T06:20:37Z'
-- title: ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained
-    Flaws
-  url: https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html
-  source: The Hacker News
-  published: '2026-10-28T06:04:58Z'
-- title: Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit
-    Traffic Emerges
-  url: https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html
-  source: The Hacker News
-  published: '2026-10-28T05:42:26Z'
