@@ -1,6 +1,10 @@
 ---
-updated_at: '2026-10-30T17:30:27Z'
+updated_at: '2026-10-30T21:49:08Z'
 items:
+- title: Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide
+  url: https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html
+  source: The Hacker News
+  published: '2026-10-30T16:58:44Z'
 - title: TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control
     Them
   url: https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
@@ -67,7 +71,3 @@ items:
   url: https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html
   source: The Hacker News
   published: '2026-10-29T11:39:41Z'
-- title: Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls
-  url: https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html
-  source: The Hacker News
-  published: '2026-10-29T11:39:18Z'
