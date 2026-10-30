@@ -1,6 +1,20 @@
 ---
-updated_at: '2026-10-30T00:30:48Z'
+updated_at: '2026-10-30T09:19:53Z'
 items:
+- title: Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization
+    Bypass Flaw
+  url: https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
+  source: The Hacker News
+  published: '2026-10-30T07:45:30Z'
+- title: CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV
+  url: https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+  source: The Hacker News
+  published: '2026-10-30T07:27:05Z'
+- title: Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly
+    $3 Billion Frozen
+  url: https://thehackernews.com/2026/10/binance-suffers-security-breach.html
+  source: The Hacker News
+  published: '2026-10-30T04:14:59Z'
 - title: 'ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized
     PDF, Token Theft + 26 More Stories'
   url: https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
@@ -55,18 +69,3 @@ items:
   url: https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html
   source: The Hacker News
   published: '2026-10-29T08:24:22Z'
-- title: China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail
-    Visibility
-  url: https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html
-  source: The Hacker News
-  published: '2026-10-29T06:22:33Z'
-- title: Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks
-    Management Interfaces
-  url: https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html
-  source: The Hacker News
-  published: '2026-10-29T05:50:17Z'
-- title: Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation
-    Campaigns
-  url: https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html
-  source: The Hacker News
-  published: '2026-10-28T18:08:33Z'
