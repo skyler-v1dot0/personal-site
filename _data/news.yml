@@ -1,6 +1,35 @@
 ---
-updated_at: '2026-10-30T09:19:53Z'
+updated_at: '2026-10-30T17:30:27Z'
 items:
+- title: TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control
+    Them
+  url: https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
+  source: The Hacker News
+  published: '2026-10-30T15:17:28Z'
+- title: WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours
+  url: https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html
+  source: The Hacker News
+  published: '2026-10-30T14:08:14Z'
+- title: Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by
+    CryptoBilis
+  url: https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html
+  source: The Hacker News
+  published: '2026-10-30T12:21:56Z'
+- title: Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets
+    Them Moving
+  url: https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html
+  source: The Hacker News
+  published: '2026-10-30T11:58:53Z'
+- title: Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets
+    42 Months in Prison
+  url: https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html
+  source: The Hacker News
+  published: '2026-10-30T10:40:45Z'
+- title: Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent
+    SSH Backdoor
+  url: https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+  source: The Hacker News
+  published: '2026-10-30T08:55:47Z'
 - title: Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization
     Bypass Flaw
   url: https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
@@ -42,30 +71,3 @@ items:
   url: https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html
   source: The Hacker News
   published: '2026-10-29T11:39:18Z'
-- title: 'The Rise of the Threat Operator: How AI Will Redefine Security Operations
-    and Careers'
-  url: https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html
-  source: The Hacker News
-  published: '2026-10-29T11:33:41Z'
-- title: 26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories
-  url: https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html
-  source: The Hacker News
-  published: '2026-10-29T11:33:15Z'
-- title: Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
-  url: https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
-  source: The Hacker News
-  published: '2026-10-29T10:44:46Z'
-- title: GitHub Launches npm Firewall to Block Malicious Packages Before Installation
-  url: https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html
-  source: The Hacker News
-  published: '2026-10-29T10:26:33Z'
-- title: Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby
-    Left Open
-  url: https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
-  source: The Hacker News
-  published: '2026-10-29T09:05:39Z'
-- title: Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption
-    Keys
-  url: https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html
-  source: The Hacker News
-  published: '2026-10-29T08:24:22Z'
