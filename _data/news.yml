@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-10-31T11:27:47Z'
+updated_at: '2026-10-31T16:35:20Z'
 items:
+- title: Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer
+    Identity Data
+  url: https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
+  source: The Hacker News
+  published: '2026-10-31T12:01:56Z'
 - title: Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated
     Root Access
   url: https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
@@ -67,8 +72,3 @@ items:
   url: https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
   source: The Hacker News
   published: '2026-10-29T19:11:58Z'
-- title: Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other
-    Distributions
-  url: https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html
-  source: The Hacker News
-  published: '2026-10-29T15:57:05Z'
