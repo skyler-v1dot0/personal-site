@@ -1,6 +1,26 @@
 ---
-updated_at: '2026-11-01T03:29:55Z'
+updated_at: '2026-11-01T12:23:37Z'
 items:
+- title: CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients
+    Without a Private Key
+  url: https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
+  source: The Hacker News
+  published: '2026-11-01T08:51:31Z'
+- title: Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear
+    Script
+  url: https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
+  source: The Hacker News
+  published: '2026-11-01T07:25:40Z'
+- title: FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto
+    Heist
+  url: https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html
+  source: The Hacker News
+  published: '2026-11-01T07:03:00Z'
+- title: NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET
+    Injection
+  url: https://thehackernews.com/2026/11/netamloader-malware-targets-government.html
+  source: The Hacker News
+  published: '2026-11-01T07:02:58Z'
 - title: Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer
     Identity Data
   url: https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
@@ -53,22 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
   source: The Hacker News
   published: '2026-10-30T08:55:47Z'
-- title: Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization
-    Bypass Flaw
-  url: https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
-  source: The Hacker News
-  published: '2026-10-30T07:45:30Z'
-- title: CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV
-  url: https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
-  source: The Hacker News
-  published: '2026-10-30T07:27:05Z'
-- title: Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly
-    $3 Billion Frozen
-  url: https://thehackernews.com/2026/10/binance-suffers-security-breach.html
-  source: The Hacker News
-  published: '2026-10-30T04:14:59Z'
-- title: 'ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized
-    PDF, Token Theft + 26 More Stories'
-  url: https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
-  source: The Hacker News
-  published: '2026-10-29T19:11:58Z'
