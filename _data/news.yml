@@ -1,6 +1,39 @@
 ---
-updated_at: '2026-11-02T10:20:44Z'
+updated_at: '2026-11-02T21:09:57Z'
 items:
+- title: "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing,
+    Android Spyware and More"
+  url: https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html
+  source: The Hacker News
+  published: '2026-11-02T16:57:56Z'
+- title: Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold
+    Criminal Access
+  url: https://thehackernews.com/2026/11/google-disrupts-13-million-device.html
+  source: The Hacker News
+  published: '2026-11-02T15:50:26Z'
+- title: DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud
+    Environment
+  url: https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html
+  source: The Hacker News
+  published: '2026-11-02T14:46:05Z'
+- title: Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
+  url: https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html
+  source: The Hacker News
+  published: '2026-11-02T11:50:00Z'
+- title: Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy
+  url: https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html
+  source: The Hacker News
+  published: '2026-11-02T11:30:00Z'
+- title: Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company
+    Data
+  url: https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
+  source: The Hacker News
+  published: '2026-11-02T11:08:45Z'
+- title: Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated
+    Scripts
+  url: https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
+  source: The Hacker News
+  published: '2026-11-02T10:49:59Z'
 - title: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by
     Financial Value
   url: https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
@@ -41,35 +74,3 @@ items:
   url: https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
   source: The Hacker News
   published: '2026-10-31T05:33:41Z'
-- title: Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%
-  url: https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html
-  source: The Hacker News
-  published: '2026-10-31T04:56:12Z'
-- title: Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide
-  url: https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html
-  source: The Hacker News
-  published: '2026-10-30T16:58:44Z'
-- title: TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control
-    Them
-  url: https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
-  source: The Hacker News
-  published: '2026-10-30T15:17:28Z'
-- title: WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours
-  url: https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html
-  source: The Hacker News
-  published: '2026-10-30T14:08:14Z'
-- title: Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by
-    CryptoBilis
-  url: https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html
-  source: The Hacker News
-  published: '2026-10-30T12:21:56Z'
-- title: Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets
-    Them Moving
-  url: https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html
-  source: The Hacker News
-  published: '2026-10-30T11:58:53Z'
-- title: Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets
-    42 Months in Prison
-  url: https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html
-  source: The Hacker News
-  published: '2026-10-30T10:40:45Z'
