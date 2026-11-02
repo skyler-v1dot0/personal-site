@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-11-02T00:04:08Z'
+updated_at: '2026-11-02T10:20:44Z'
 items:
+- title: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by
+    Financial Value
+  url: https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
+  source: The Hacker News
+  published: '2026-11-02T05:51:07Z'
 - title: CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients
     Without a Private Key
   url: https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
@@ -68,8 +73,3 @@ items:
   url: https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html
   source: The Hacker News
   published: '2026-10-30T10:40:45Z'
-- title: Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent
-    SSH Backdoor
-  url: https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
-  source: The Hacker News
-  published: '2026-10-30T08:55:47Z'
