@@ -1,6 +1,44 @@
 ---
-updated_at: '2026-11-03T04:43:15Z'
+updated_at: '2026-11-03T13:20:13Z'
 items:
+- title: Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes
+    for Testing
+  url: https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html
+  source: The Hacker News
+  published: '2026-11-03T11:23:53Z'
+- title: The 4 Elements of Exposure Prioritization and How to Operationalize Them
+  url: https://thehackernews.com/2026/11/the-4-elements-of-exposure.html
+  source: The Hacker News
+  published: '2026-11-03T11:18:20Z'
+- title: Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing
+    Malware
+  url: https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html
+  source: The Hacker News
+  published: '2026-11-03T11:00:45Z'
+- title: Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot
+    Wallets
+  url: https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html
+  source: The Hacker News
+  published: '2026-11-03T08:31:48Z'
+- title: Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM
+    Flaw
+  url: https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
+  source: The Hacker News
+  published: '2026-11-03T07:43:07Z'
+- title: New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing
+    Stores to Pull Food
+  url: https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html
+  source: The Hacker News
+  published: '2026-11-03T07:27:07Z'
+- title: Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors
+  url: https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html
+  source: The Hacker News
+  published: '2026-11-03T05:34:41Z'
+- title: Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet
+    Credentials
+  url: https://thehackernews.com/2026/11/attackers-target-unpatched.html
+  source: The Hacker News
+  published: '2026-11-03T05:34:37Z'
 - title: "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing,
     Android Spyware and More"
   url: https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html
@@ -34,43 +72,3 @@ items:
   url: https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
   source: The Hacker News
   published: '2026-11-02T10:49:59Z'
-- title: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by
-    Financial Value
-  url: https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
-  source: The Hacker News
-  published: '2026-11-02T05:51:07Z'
-- title: CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients
-    Without a Private Key
-  url: https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
-  source: The Hacker News
-  published: '2026-11-01T08:51:31Z'
-- title: Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear
-    Script
-  url: https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
-  source: The Hacker News
-  published: '2026-11-01T07:25:40Z'
-- title: FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto
-    Heist
-  url: https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html
-  source: The Hacker News
-  published: '2026-11-01T07:03:00Z'
-- title: NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET
-    Injection
-  url: https://thehackernews.com/2026/11/netamloader-malware-targets-government.html
-  source: The Hacker News
-  published: '2026-11-01T07:02:58Z'
-- title: Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer
-    Identity Data
-  url: https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
-  source: The Hacker News
-  published: '2026-10-31T12:01:56Z'
-- title: Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated
-    Root Access
-  url: https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
-  source: The Hacker News
-  published: '2026-10-31T08:27:43Z'
-- title: A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private
-    Chats
-  url: https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
-  source: The Hacker News
-  published: '2026-10-31T05:33:41Z'
