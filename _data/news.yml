@@ -1,6 +1,19 @@
 ---
-updated_at: '2026-11-04T00:58:40Z'
+updated_at: '2026-11-04T10:12:32Z'
 items:
+- title: Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure
+  url: https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html
+  source: The Hacker News
+  published: '2026-11-04T08:17:11Z'
+- title: Google Issues Patches for Critical Android Flaw That Could Allow RCE Without
+    User Interaction
+  url: https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html
+  source: The Hacker News
+  published: '2026-11-04T07:46:15Z'
+- title: CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades
+  url: https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html
+  source: The Hacker News
+  published: '2026-11-04T05:43:11Z'
 - title: mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious
     Activity
   url: https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html
@@ -59,17 +72,3 @@ items:
   url: https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html
   source: The Hacker News
   published: '2026-11-03T07:27:07Z'
-- title: Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors
-  url: https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html
-  source: The Hacker News
-  published: '2026-11-03T05:34:41Z'
-- title: Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet
-    Credentials
-  url: https://thehackernews.com/2026/11/attackers-target-unpatched.html
-  source: The Hacker News
-  published: '2026-11-03T05:34:37Z'
-- title: "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing,
-    Android Spyware and More"
-  url: https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html
-  source: The Hacker News
-  published: '2026-11-02T16:57:56Z'
