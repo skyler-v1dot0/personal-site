@@ -1,6 +1,44 @@
 ---
-updated_at: '2026-11-04T10:12:32Z'
+updated_at: '2026-11-04T19:08:53Z'
 items:
+- title: Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and
+    Run Code as Root
+  url: https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html
+  source: The Hacker News
+  published: '2026-11-04T17:00:46Z'
+- title: SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database
+    Records
+  url: https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html
+  source: The Hacker News
+  published: '2026-11-04T17:00:38Z'
+- title: Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit
+  url: https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html
+  source: The Hacker News
+  published: '2026-11-04T16:06:43Z'
+- title: APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android
+    Exploits
+  url: https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html
+  source: The Hacker News
+  published: '2026-11-04T14:27:52Z'
+- title: Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick
+    Uploads
+  url: https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html
+  source: The Hacker News
+  published: '2026-11-04T12:07:04Z'
+- title: Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory
+  url: https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html
+  source: The Hacker News
+  published: '2026-11-04T11:46:27Z'
+- title: 'Radio With No Radar: Why Agent Runtime Security Fails Without the Layers
+    Beneath It'
+  url: https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html
+  source: The Hacker News
+  published: '2026-11-04T11:34:20Z'
+- title: China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil
+    Backdoor
+  url: https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html
+  source: The Hacker News
+  published: '2026-11-04T11:24:31Z'
 - title: Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure
   url: https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html
   source: The Hacker News
@@ -33,42 +71,3 @@ items:
   url: https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html
   source: The Hacker News
   published: '2026-11-03T15:59:19Z'
-- title: Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million
-    in Cloud Charges
-  url: https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html
-  source: The Hacker News
-  published: '2026-11-03T15:41:53Z'
-- title: cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password
-    Hashes
-  url: https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html
-  source: The Hacker News
-  published: '2026-11-03T15:16:32Z'
-- title: Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes
-    for Testing
-  url: https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html
-  source: The Hacker News
-  published: '2026-11-03T11:23:53Z'
-- title: The 4 Elements of Exposure Prioritization and How to Operationalize Them
-  url: https://thehackernews.com/2026/11/the-4-elements-of-exposure.html
-  source: The Hacker News
-  published: '2026-11-03T11:18:20Z'
-- title: Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing
-    Malware
-  url: https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html
-  source: The Hacker News
-  published: '2026-11-03T11:00:45Z'
-- title: Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot
-    Wallets
-  url: https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html
-  source: The Hacker News
-  published: '2026-11-03T08:31:48Z'
-- title: Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM
-    Flaw
-  url: https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
-  source: The Hacker News
-  published: '2026-11-03T07:43:07Z'
-- title: New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing
-    Stores to Pull Food
-  url: https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html
-  source: The Hacker News
-  published: '2026-11-03T07:27:07Z'
