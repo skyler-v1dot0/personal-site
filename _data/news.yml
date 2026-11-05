@@ -1,6 +1,25 @@
 ---
-updated_at: '2026-11-05T10:05:45Z'
+updated_at: '2026-11-05T19:16:25Z'
 items:
+- title: 'ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More
+    Stories'
+  url: https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
+  source: The Hacker News
+  published: '2026-11-05T14:41:10Z'
+- title: Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find
+    Out
+  url: https://thehackernews.com/2026/11/is-your-exposure-management-platform.html
+  source: The Hacker News
+  published: '2026-11-05T12:25:00Z'
+- title: OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour
+    Run
+  url: https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html
+  source: The Hacker News
+  published: '2026-11-05T12:08:54Z'
+- title: 5 Active Cyber Threats That Put US Enterprises at Risk in October 2026
+  url: https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html
+  source: The Hacker News
+  published: '2026-11-05T10:06:19Z'
 - title: Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful
     Content
   url: https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html
@@ -21,11 +40,6 @@ items:
   url: https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html
   source: The Hacker News
   published: '2026-11-05T05:17:04Z'
-- title: OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour
-    Run
-  url: https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html
-  source: The Hacker News
-  published: '2026-11-05T04:31:16Z'
 - title: Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and
     Run Code as Root
   url: https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html
@@ -59,17 +73,3 @@ items:
   url: https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html
   source: The Hacker News
   published: '2026-11-04T11:34:20Z'
-- title: China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil
-    Backdoor
-  url: https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html
-  source: The Hacker News
-  published: '2026-11-04T11:24:31Z'
-- title: Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure
-  url: https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html
-  source: The Hacker News
-  published: '2026-11-04T08:17:11Z'
-- title: Google Issues Patches for Critical Android Flaw That Could Allow RCE Without
-    User Interaction
-  url: https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html
-  source: The Hacker News
-  published: '2026-11-04T07:46:15Z'
