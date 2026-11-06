@@ -1,6 +1,34 @@
 ---
-updated_at: '2026-11-06T10:10:39Z'
+updated_at: '2026-11-06T18:42:45Z'
 items:
+- title: Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites
+    One Last Time
+  url: https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html
+  source: The Hacker News
+  published: '2026-11-06T16:08:38Z'
+- title: Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root
+    on Honeypot
+  url: https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+  source: The Hacker News
+  published: '2026-11-06T15:21:49Z'
+- title: OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux
+    Exploits
+  url: https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html
+  source: The Hacker News
+  published: '2026-11-06T14:58:32Z'
+- title: Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It
+  url: https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html
+  source: The Hacker News
+  published: '2026-11-06T12:06:43Z'
+- title: Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users'
+    Computers
+  url: https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html
+  source: The Hacker News
+  published: '2026-11-06T12:06:35Z'
+- title: The Flood is Coming And The Pipes Were Already Full
+  url: https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html
+  source: The Hacker News
+  published: '2026-11-06T11:30:00Z'
 - title: Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key
     Services
   url: https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
@@ -45,33 +73,3 @@ items:
   url: https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html
   source: The Hacker News
   published: '2026-11-05T10:06:19Z'
-- title: Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful
-    Content
-  url: https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html
-  source: The Hacker News
-  published: '2026-11-05T09:13:28Z'
-- title: CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to
-    Root Access
-  url: https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html
-  source: The Hacker News
-  published: '2026-11-05T08:42:03Z'
-- title: Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command
-    Execution
-  url: https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html
-  source: The Hacker News
-  published: '2026-11-05T07:06:33Z'
-- title: Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA
-    Says
-  url: https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html
-  source: The Hacker News
-  published: '2026-11-05T05:17:04Z'
-- title: Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and
-    Run Code as Root
-  url: https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html
-  source: The Hacker News
-  published: '2026-11-04T17:00:46Z'
-- title: SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database
-    Records
-  url: https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html
-  source: The Hacker News
-  published: '2026-11-04T17:00:38Z'
