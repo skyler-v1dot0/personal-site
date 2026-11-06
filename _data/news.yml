@@ -1,6 +1,16 @@
 ---
-updated_at: '2026-11-05T19:16:25Z'
+updated_at: '2026-11-06T01:17:06Z'
 items:
+- title: OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth
+    on Alpine Linux
+  url: https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
+  source: The Hacker News
+  published: '2026-11-05T16:42:46Z'
+- title: Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User
+    Interaction
+  url: https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
+  source: The Hacker News
+  published: '2026-11-05T16:42:32Z'
 - title: 'ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More
     Stories'
   url: https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
@@ -64,12 +74,3 @@ items:
   url: https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html
   source: The Hacker News
   published: '2026-11-04T12:07:04Z'
-- title: Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory
-  url: https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html
-  source: The Hacker News
-  published: '2026-11-04T11:46:27Z'
-- title: 'Radio With No Radar: Why Agent Runtime Security Fails Without the Layers
-    Beneath It'
-  url: https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html
-  source: The Hacker News
-  published: '2026-11-04T11:34:20Z'
