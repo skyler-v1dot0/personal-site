@@ -1,6 +1,21 @@
 ---
-updated_at: '2026-11-06T01:17:06Z'
+updated_at: '2026-11-06T10:10:39Z'
 items:
+- title: Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key
+    Services
+  url: https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
+  source: The Hacker News
+  published: '2026-11-06T08:04:49Z'
+- title: Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands
+    Without Logs
+  url: https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html
+  source: The Hacker News
+  published: '2026-11-06T05:58:54Z'
+- title: Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root
+    Access Without Login
+  url: https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html
+  source: The Hacker News
+  published: '2026-11-06T05:39:10Z'
 - title: OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth
     on Alpine Linux
   url: https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
@@ -60,17 +75,3 @@ items:
   url: https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html
   source: The Hacker News
   published: '2026-11-04T17:00:38Z'
-- title: Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit
-  url: https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html
-  source: The Hacker News
-  published: '2026-11-04T16:06:43Z'
-- title: APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android
-    Exploits
-  url: https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html
-  source: The Hacker News
-  published: '2026-11-04T14:27:52Z'
-- title: Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick
-    Uploads
-  url: https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html
-  source: The Hacker News
-  published: '2026-11-04T12:07:04Z'
