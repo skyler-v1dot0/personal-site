@@ -1,6 +1,25 @@
 ---
-updated_at: '2026-11-09T00:22:01Z'
+updated_at: '2026-11-09T10:40:41Z'
 items:
+- title: Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch
+    Records
+  url: https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html
+  source: The Hacker News
+  published: '2026-11-09T09:01:50Z'
+- title: Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive
+    Meeting Room
+  url: https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html
+  source: The Hacker News
+  published: '2026-11-09T07:05:48Z'
+- title: U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and
+    Inventory Losses
+  url: https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html
+  source: The Hacker News
+  published: '2026-11-09T06:15:10Z'
+- title: CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation
+  url: https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html
+  source: The Hacker News
+  published: '2026-11-09T06:05:24Z'
 - title: Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122
     Public Copies on GitHub
   url: https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html
@@ -54,23 +73,3 @@ items:
   url: https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
   source: The Hacker News
   published: '2026-11-05T16:42:46Z'
-- title: Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User
-    Interaction
-  url: https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
-  source: The Hacker News
-  published: '2026-11-05T16:42:32Z'
-- title: 'ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More
-    Stories'
-  url: https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
-  source: The Hacker News
-  published: '2026-11-05T14:41:10Z'
-- title: Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find
-    Out
-  url: https://thehackernews.com/2026/11/is-your-exposure-management-platform.html
-  source: The Hacker News
-  published: '2026-11-05T12:25:00Z'
-- title: OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour
-    Run
-  url: https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html
-  source: The Hacker News
-  published: '2026-11-05T12:08:54Z'
