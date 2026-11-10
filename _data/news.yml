@@ -1,6 +1,53 @@
 ---
-updated_at: '2026-11-10T05:24:06Z'
+updated_at: '2026-11-10T13:59:54Z'
 items:
+- title: Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys,
+    No Fix Confirmed
+  url: https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
+  source: The Hacker News
+  published: '2026-11-10T12:15:31Z'
+- title: 'Beyond the Alert: The Case for Rich Network Data'
+  url: https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html
+  source: The Hacker News
+  published: '2026-11-10T11:38:13Z'
+- title: Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities
+  url: https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html
+  source: The Hacker News
+  published: '2026-11-10T10:16:51Z'
+- title: Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government
+    Exchange Servers
+  url: https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html
+  source: The Hacker News
+  published: '2026-11-10T10:07:29Z'
+- title: SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution
+  url: https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html
+  source: The Hacker News
+  published: '2026-11-10T10:02:40Z'
+- title: France Blames Iran for Sabotage Attack on Refrigeration Controllers at About
+    700 Retail Sites
+  url: https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html
+  source: The Hacker News
+  published: '2026-11-10T09:08:20Z'
+- title: Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack
+    Benchmark
+  url: https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html
+  source: The Hacker News
+  published: '2026-11-10T08:16:14Z'
+- title: Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day
+    of 2026
+  url: https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
+  source: The Hacker News
+  published: '2026-11-10T06:52:54Z'
+- title: N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days
+    with PoC Exploits
+  url: https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html
+  source: The Hacker News
+  published: '2026-11-10T06:44:36Z'
+- title: CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM
+    Flaws
+  url: https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html
+  source: The Hacker News
+  published: '2026-11-10T06:31:42Z'
 - title: Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and
     Steal Data
   url: https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html
@@ -26,52 +73,3 @@ items:
   url: https://thehackernews.com/2026/11/default-adminadmin-server-password.html
   source: The Hacker News
   published: '2026-11-09T11:27:53Z'
-- title: Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets
-    for Safety
-  url: https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html
-  source: The Hacker News
-  published: '2026-11-09T10:56:25Z'
-- title: LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers
-    Amid Attacks
-  url: https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html
-  source: The Hacker News
-  published: '2026-11-09T10:01:21Z'
-- title: Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch
-    Records
-  url: https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html
-  source: The Hacker News
-  published: '2026-11-09T09:01:50Z'
-- title: Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive
-    Meeting Room
-  url: https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html
-  source: The Hacker News
-  published: '2026-11-09T07:05:48Z'
-- title: U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and
-    Inventory Losses
-  url: https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html
-  source: The Hacker News
-  published: '2026-11-09T06:15:10Z'
-- title: CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation
-  url: https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html
-  source: The Hacker News
-  published: '2026-11-09T06:05:24Z'
-- title: Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122
-    Public Copies on GitHub
-  url: https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html
-  source: The Hacker News
-  published: '2026-11-07T06:44:17Z'
-- title: Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites
-    One Last Time
-  url: https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html
-  source: The Hacker News
-  published: '2026-11-06T16:08:38Z'
-- title: Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root
-    on Honeypot
-  url: https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
-  source: The Hacker News
-  published: '2026-11-06T15:21:49Z'
-- title: OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux
-    Exploits
-  url: https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html
-  source: The Hacker News
-  published: '2026-11-06T14:58:32Z'
