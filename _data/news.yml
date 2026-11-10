@@ -1,6 +1,38 @@
 ---
-updated_at: '2026-11-10T13:59:54Z'
+updated_at: '2026-11-10T21:07:02Z'
 items:
+- title: Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive
+    Clones
+  url: https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
+  source: The Hacker News
+  published: '2026-11-10T19:23:10Z'
+- title: SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About
+    100 Users
+  url: https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html
+  source: The Hacker News
+  published: '2026-11-10T19:19:39Z'
+- title: Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access
+  url: https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html
+  source: The Hacker News
+  published: '2026-11-10T18:12:21Z'
+- title: Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem
+  url: https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html
+  source: The Hacker News
+  published: '2026-11-10T17:43:23Z'
+- title: Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor
+  url: https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html
+  source: The Hacker News
+  published: '2026-11-10T16:00:55Z'
+- title: Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across
+    Latin America
+  url: https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html
+  source: The Hacker News
+  published: '2026-11-10T15:58:44Z'
+- title: Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights
+    and Notion AI Chats
+  url: https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html
+  source: The Hacker News
+  published: '2026-11-10T15:33:59Z'
 - title: Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys,
     No Fix Confirmed
   url: https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
@@ -38,38 +70,3 @@ items:
   url: https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
   source: The Hacker News
   published: '2026-11-10T06:52:54Z'
-- title: N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days
-    with PoC Exploits
-  url: https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html
-  source: The Hacker News
-  published: '2026-11-10T06:44:36Z'
-- title: CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM
-    Flaws
-  url: https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html
-  source: The Hacker News
-  published: '2026-11-10T06:31:42Z'
-- title: Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and
-    Steal Data
-  url: https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html
-  source: The Hacker News
-  published: '2026-11-09T17:51:21Z'
-- title: Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing
-    Malware
-  url: https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html
-  source: The Hacker News
-  published: '2026-11-09T17:36:28Z'
-- title: Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting
-    South Asia
-  url: https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html
-  source: The Hacker News
-  published: '2026-11-09T14:31:29Z'
-- title: "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked
-    Sites, and More"
-  url: https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html
-  source: The Hacker News
-  published: '2026-11-09T13:28:25Z'
-- title: Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers,
-    Unlock and Start Cars
-  url: https://thehackernews.com/2026/11/default-adminadmin-server-password.html
-  source: The Hacker News
-  published: '2026-11-09T11:27:53Z'
