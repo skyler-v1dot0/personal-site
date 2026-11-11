@@ -1,6 +1,39 @@
 ---
-updated_at: '2026-11-11T03:55:09Z'
+updated_at: '2026-11-11T13:16:48Z'
 items:
+- title: Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data
+    and Passwords
+  url: https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html
+  source: The Hacker News
+  published: '2026-11-11T12:19:40Z'
+- title: We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.
+  url: https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html
+  source: The Hacker News
+  published: '2026-11-11T12:01:59Z'
+- title: eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise
+  url: https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html
+  source: The Hacker News
+  published: '2026-11-11T12:00:53Z'
+- title: Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose
+    NTLMv2 Hashes
+  url: https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
+  source: The Hacker News
+  published: '2026-11-11T08:17:53Z'
+- title: Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized
+    Usage Charges
+  url: https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html
+  source: The Hacker News
+  published: '2026-11-11T07:49:04Z'
+- title: Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than
+    10 Neurons
+  url: https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html
+  source: The Hacker News
+  published: '2026-11-11T07:21:05Z'
+- title: Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available
+    Patches
+  url: https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+  source: The Hacker News
+  published: '2026-11-11T06:04:02Z'
 - title: Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive
     Clones
   url: https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
@@ -38,35 +71,3 @@ items:
   url: https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
   source: The Hacker News
   published: '2026-11-10T12:15:31Z'
-- title: 'Beyond the Alert: The Case for Rich Network Data'
-  url: https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html
-  source: The Hacker News
-  published: '2026-11-10T11:38:13Z'
-- title: Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities
-  url: https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html
-  source: The Hacker News
-  published: '2026-11-10T10:16:51Z'
-- title: Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government
-    Exchange Servers
-  url: https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html
-  source: The Hacker News
-  published: '2026-11-10T10:07:29Z'
-- title: SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution
-  url: https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html
-  source: The Hacker News
-  published: '2026-11-10T10:02:40Z'
-- title: France Blames Iran for Sabotage Attack on Refrigeration Controllers at About
-    700 Retail Sites
-  url: https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html
-  source: The Hacker News
-  published: '2026-11-10T09:08:20Z'
-- title: Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack
-    Benchmark
-  url: https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html
-  source: The Hacker News
-  published: '2026-11-10T08:16:14Z'
-- title: Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day
-    of 2026
-  url: https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
-  source: The Hacker News
-  published: '2026-11-10T06:52:54Z'
