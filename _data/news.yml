@@ -1,6 +1,21 @@
 ---
-updated_at: '2026-11-11T13:16:48Z'
+updated_at: '2026-11-11T21:40:16Z'
 items:
+- title: Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege
+    Escalation
+  url: https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
+  source: The Hacker News
+  published: '2026-11-11T16:12:46Z'
+- title: AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production
+    Secrets
+  url: https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+  source: The Hacker News
+  published: '2026-11-11T15:34:27Z'
+- title: Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and
+    Veeam Exploits
+  url: https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
+  source: The Hacker News
+  published: '2026-11-11T14:01:00Z'
 - title: Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data
     and Passwords
   url: https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html
@@ -56,18 +71,3 @@ items:
   url: https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html
   source: The Hacker News
   published: '2026-11-10T16:00:55Z'
-- title: Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across
-    Latin America
-  url: https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html
-  source: The Hacker News
-  published: '2026-11-10T15:58:44Z'
-- title: Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights
-    and Notion AI Chats
-  url: https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html
-  source: The Hacker News
-  published: '2026-11-10T15:33:59Z'
-- title: Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys,
-    No Fix Confirmed
-  url: https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
-  source: The Hacker News
-  published: '2026-11-10T12:15:31Z'
