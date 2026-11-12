@@ -1,6 +1,55 @@
 ---
-updated_at: '2026-11-12T05:02:15Z'
+updated_at: '2026-11-12T14:21:22Z'
 items:
+- title: Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes
+    in VMs
+  url: https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html
+  source: The Hacker News
+  published: '2026-11-12T12:09:14Z'
+- title: 'Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close
+    Them'
+  url: https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html
+  source: The Hacker News
+  published: '2026-11-12T12:02:51Z'
+- title: New N-central Exploits Work Against Patched Servers, Enable Root RCE and
+    Windows SYSTEM Access
+  url: https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html
+  source: The Hacker News
+  published: '2026-11-12T11:51:43Z'
+- title: 'Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign'
+  url: https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html
+  source: The Hacker News
+  published: '2026-11-12T11:51:31Z'
+- title: PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote
+    Code Execution
+  url: https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html
+  source: The Hacker News
+  published: '2026-11-12T11:33:15Z'
+- title: Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers
+    on Failover
+  url: https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html
+  source: The Hacker News
+  published: '2026-11-12T09:25:00Z'
+- title: Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak
+    Other Connections' Data
+  url: https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html
+  source: The Hacker News
+  published: '2026-11-12T08:20:37Z'
+- title: Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in
+    1,806+ Repositories
+  url: https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html
+  source: The Hacker News
+  published: '2026-11-12T06:42:47Z'
+- title: Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code
+    Remotely
+  url: https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html
+  source: The Hacker News
+  published: '2026-11-12T05:12:26Z'
+- title: ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations
+    With Rogue Clients
+  url: https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html
+  source: The Hacker News
+  published: '2026-11-12T04:39:48Z'
 - title: Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege
     Escalation
   url: https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
@@ -25,49 +74,3 @@ items:
   url: https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html
   source: The Hacker News
   published: '2026-11-11T12:01:59Z'
-- title: eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise
-  url: https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html
-  source: The Hacker News
-  published: '2026-11-11T12:00:53Z'
-- title: Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose
-    NTLMv2 Hashes
-  url: https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
-  source: The Hacker News
-  published: '2026-11-11T08:17:53Z'
-- title: Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized
-    Usage Charges
-  url: https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html
-  source: The Hacker News
-  published: '2026-11-11T07:49:04Z'
-- title: Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than
-    10 Neurons
-  url: https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html
-  source: The Hacker News
-  published: '2026-11-11T07:21:05Z'
-- title: Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available
-    Patches
-  url: https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
-  source: The Hacker News
-  published: '2026-11-11T06:04:02Z'
-- title: Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive
-    Clones
-  url: https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
-  source: The Hacker News
-  published: '2026-11-10T19:23:10Z'
-- title: SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About
-    100 Users
-  url: https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html
-  source: The Hacker News
-  published: '2026-11-10T19:19:39Z'
-- title: Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access
-  url: https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html
-  source: The Hacker News
-  published: '2026-11-10T18:12:21Z'
-- title: Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem
-  url: https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html
-  source: The Hacker News
-  published: '2026-11-10T17:43:23Z'
-- title: Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor
-  url: https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html
-  source: The Hacker News
-  published: '2026-11-10T16:00:55Z'
