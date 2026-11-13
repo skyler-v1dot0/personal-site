@@ -1,6 +1,30 @@
 ---
-updated_at: '2026-11-13T04:18:18Z'
+updated_at: '2026-11-13T13:40:56Z'
 items:
+- title: When an AI Agent Goes Wrong, Can You Stop It?
+  url: https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html
+  source: The Hacker News
+  published: '2026-11-13T11:52:31Z'
+- title: SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy
+    on Taiwanese Users
+  url: https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html
+  source: The Hacker News
+  published: '2026-11-13T11:10:40Z'
+- title: Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes
+    6.4M Stolen Logins
+  url: https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html
+  source: The Hacker News
+  published: '2026-11-13T10:55:03Z'
+- title: Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor
+    and Wipe ESXi Files
+  url: https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html
+  source: The Hacker News
+  published: '2026-11-13T08:05:49Z'
+- title: Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running
+    Hotfix 2
+  url: https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html
+  source: The Hacker News
+  published: '2026-11-13T05:43:28Z'
 - title: 'Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close
     Them'
   url: https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html
@@ -50,28 +74,3 @@ items:
   url: https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html
   source: The Hacker News
   published: '2026-11-12T11:51:31Z'
-- title: PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote
-    Code Execution
-  url: https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html
-  source: The Hacker News
-  published: '2026-11-12T11:33:15Z'
-- title: Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers
-    on Failover
-  url: https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html
-  source: The Hacker News
-  published: '2026-11-12T09:25:00Z'
-- title: Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak
-    Other Connections' Data
-  url: https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html
-  source: The Hacker News
-  published: '2026-11-12T08:20:37Z'
-- title: Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in
-    1,806+ Repositories
-  url: https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html
-  source: The Hacker News
-  published: '2026-11-12T06:42:47Z'
-- title: Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code
-    Remotely
-  url: https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html
-  source: The Hacker News
-  published: '2026-11-12T05:12:26Z'
