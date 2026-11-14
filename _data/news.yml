@@ -1,6 +1,10 @@
 ---
-updated_at: '2026-11-14T12:45:48Z'
+updated_at: '2026-11-14T19:37:41Z'
 items:
+- title: Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection
+  url: https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html
+  source: The Hacker News
+  published: '2026-11-14T12:38:35Z'
 - title: PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated
     RCE
   url: https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html
@@ -70,8 +74,3 @@ items:
   url: https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html
   source: The Hacker News
   published: '2026-11-12T15:38:49Z'
-- title: 186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and
-    Search Hijackers
-  url: https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html
-  source: The Hacker News
-  published: '2026-11-12T15:15:40Z'
