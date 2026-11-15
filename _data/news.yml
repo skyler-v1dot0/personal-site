@@ -1,8 +1,13 @@
 ---
-updated_at: '2026-11-15T10:12:25Z'
+updated_at: '2026-11-15T18:17:04Z'
 items:
-- title: Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code
-    Extension
+- title: Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without
+    Explicit Consent
+  url: https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html
+  source: The Hacker News
+  published: '2026-11-15T11:27:31Z'
+- title: Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension
+    Incident
   url: https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html
   source: The Hacker News
   published: '2026-11-15T08:22:04Z'
@@ -69,8 +74,3 @@ items:
   url: https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html
   source: The Hacker News
   published: '2026-11-12T17:50:27Z'
-- title: Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private
-    Container Images in a Registry
-  url: https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html
-  source: The Hacker News
-  published: '2026-11-12T16:27:01Z'
