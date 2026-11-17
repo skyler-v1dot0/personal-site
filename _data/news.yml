@@ -1,6 +1,11 @@
 ---
-updated_at: '2026-11-16T21:27:27Z'
+updated_at: '2026-11-17T05:51:09Z'
 items:
+- title: N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy
+    Crypto Miners
+  url: https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html
+  source: The Hacker News
+  published: '2026-11-17T05:00:34Z'
 - title: Google Finds Hackers Using AI Agents to Build and Run Exploits From Software
     Patches
   url: https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html
@@ -69,7 +74,3 @@ items:
   url: https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html
   source: The Hacker News
   published: '2026-11-13T13:54:20Z'
-- title: When an AI Agent Goes Wrong, Can You Stop It?
-  url: https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html
-  source: The Hacker News
-  published: '2026-11-13T11:52:31Z'
