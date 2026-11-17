@@ -7,7 +7,8 @@ description: "Security and tech news sites I check regularly."
 
 <div class="news-grid">
   {% for site in site.data.news_sites %}
-    <a class="news-card" href="{{ site.url }}" target="_blank" rel="noopener">
+    <a class="news-card news-card--{{ site.accent }}" href="{{ site.url }}" target="_blank" rel="noopener">
+      <span class="news-card-icon">{% include news-icon.html icon=site.icon %}</span>
       <span class="news-card-name">{{ site.name }}</span>
       <p class="news-card-description">{{ site.description }}</p>
     </a>

@@ -1,12 +1,20 @@
 # Sites linked from /news/. Add more entries as needed.
+# accent: blue | green | yellow (ties the card's tint to an existing CSS color var)
+# icon: shield | bug | terminal (see _includes/news-icon.html)
 - name: "The Hacker News"
   url: "https://thehackernews.com"
   description: "Cybersecurity news, breaches, and vulnerability research."
+  icon: "shield"
+  accent: "blue"
 
 - name: "BleepingComputer"
   url: "https://www.bleepingcomputer.com/"
   description: "Breaking cybersecurity, tech, and malware news."
+  icon: "bug"
+  accent: "green"
 
 - name: "Krebs on Security"
   url: "https://krebsonsecurity.com/"
   description: "In-depth investigative security journalism from Brian Krebs."
+  icon: "terminal"
+  accent: "yellow"

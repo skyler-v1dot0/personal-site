@@ -1,0 +1,14 @@
+{% comment %}
+  Renders a small inline SVG icon for a news card.
+  Usage: {% include news-icon.html icon=site.icon %}
+{% endcomment %}
+{% case include.icon %}
+  {% when "shield" %}
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6l7-3z"/></svg>
+  {% when "bug" %}
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 8V6a3 3 0 0 1 6 0v2"/><rect x="6" y="9" width="12" height="10" rx="4"/><path d="M6 13H3M21 13h-3M9 19l-2 2M15 19l2 2M9 9 7 7M15 9l2-2"/></svg>
+  {% when "terminal" %}
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 9l3 3-3 3M13 15h4"/></svg>
+  {% else %}
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/></svg>
+{% endcase %}
