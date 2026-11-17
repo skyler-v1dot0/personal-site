@@ -55,11 +55,7 @@ Think harder not smarter...or something close to that.
     <div class="skill-group">
       <h3>research</h3>
       <ul>
-        <li>Reverse engineering</li>
-        <li>Binary analysis</li>
-        <li>Fuzzing</li>
-        <li>Protocol research</li>
-        <li>CVE development</li>
+        <li>Still researching...</li>
       </ul>
     </div>
   </div>
