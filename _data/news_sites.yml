@@ -1,0 +1,12 @@
+# Sites linked from /news/. Add more entries as needed.
+- name: "The Hacker News"
+  url: "https://thehackernews.com"
+  description: "Cybersecurity news, breaches, and vulnerability research."
+
+- name: "BleepingComputer"
+  url: "https://www.bleepingcomputer.com/"
+  description: "Breaking cybersecurity, tech, and malware news."
+
+- name: "Krebs on Security"
+  url: "https://krebsonsecurity.com/"
+  description: "In-depth investigative security journalism from Brian Krebs."

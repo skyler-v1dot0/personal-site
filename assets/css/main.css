@@ -726,8 +726,42 @@ main.container {
 /* ===========================
    News Page
    =========================== */
-.news-updated {
-  margin-bottom: var(--spacing-lg);
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.news-card {
+  display: block;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: var(--spacing-lg);
+  transition: border-color 0.15s ease;
+}
+
+.news-card:hover {
+  border-color: var(--text-muted);
+}
+
+.news-card-name {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-strong);
+  margin-bottom: var(--spacing-sm);
+}
+
+.news-card:hover .news-card-name {
+  color: var(--accent);
+}
+
+.news-card-description {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
 }
 
 /* ===========================

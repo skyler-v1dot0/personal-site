@@ -45,15 +45,9 @@ Standard Jekyll layout/include structure:
 - `_posts/` — all blog content lives here (`site.posts`), including CTF/vuln-research writeups, which are just posts tagged `ctf` (there is no separate CTF collection). `blog.html` (permalink `/blog/`) lists every post with a client-side tag filter (vanilla JS, no plugin) built from `site.tags`.
 - `index.html` — homepage; a black terminal-prompt motif (`$ whoami`, `$ cat about.txt`) driven by `site.author.name`/`site.description`, with a CSS-only typewriter effect (no JS) sized via the `--chars` custom property computed with Liquid's `size` filter. It does not list posts.
 
-**News aggregation (`/news/`):**
-- `_data/news_sources.yml` — list of `{name, url}` feed sources (currently just The Hacker News). Add more sources here.
-- `scripts/fetch_news.rb` — stdlib-only Ruby script (no Gemfile dependency) that fetches each source's RSS/Atom feed, merges + sorts items by date, and writes `_data/news.yml` (`updated_at` + `items: [{title, url, source, published}]`).
-- `.github/workflows/news.yml` — runs the script every 3 hours (and on `workflow_dispatch`), commits `_data/news.yml` directly to `main` if it changed, using `chore: sync news feed [skip ci]` so it doesn't retrigger CI/security workflows. Requires the repo's default `GITHUB_TOKEN` workflow permission to be write (declared via `permissions: contents: write` in the workflow, which overrides the repo's read-only default).
-- `news.html` reads `site.data.news.items` — titles/URLs are external, untrusted feed content, so they're rendered with Liquid's `escape` filter (defense against a compromised/malicious feed injecting markup).
-- This is a static site with a native (non-Actions) GitHub Pages build (`legacy` build type — no custom Jekyll plugins run at build time), which is why news data is fetched out-of-band and committed as a data file rather than fetched at build time.
-
 **Data-driven content:**
 - `_data/projects.yml` — array of project entries (`name`, `description`, `github`, `url`, `tags`) rendered by `projects.md` into cards. This is the file to edit to add/update a project; no template changes needed for a new entry.
+- `_data/news_sites.yml` — array of `{name, url, description}` entries rendered by `news.html` (`/news/`) as static link-out cards to external news sites. No feed fetching involved (an earlier version of this page pulled RSS via a scheduled GitHub Action; that pipeline was removed in favor of this static list) — just add an entry here to list another site.
 
 **Frontmatter conventions** for posts: `layout: post`, `title`, `date`, `description`, `tags` (array). CTF writeups just add a `ctf` tag alongside their other tags (e.g. `pwn`, `heap`) — tag membership drives both the `/blog/` filter and the tag color coding, there's no separate collection or flag.
 

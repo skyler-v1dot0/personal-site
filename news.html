@@ -2,31 +2,14 @@
 layout: page
 title: news
 permalink: /news/
-description: "Headlines pulled from security news sources on a schedule."
+description: "Security and tech news sites I check regularly."
 ---
 
-{% if site.data.news.updated_at %}
-<p class="text-muted text-sm news-updated">
-  last synced {{ site.data.news.updated_at | date: "%b %d, %Y %H:%M UTC" }}
-</p>
-{% endif %}
-
-<ul class="post-list">
-  {% for item in site.data.news.items %}
-    <li class="post-list-item">
-      <div class="item-left">
-        <a href="{{ item.url | escape }}" target="_blank" rel="noopener noreferrer">{{ item.title | escape }}</a>
-        <div class="item-tags">
-          <span class="tag">{{ item.source | escape }}</span>
-        </div>
-      </div>
-      <span class="post-list-date">{{ item.published | date: "%b %d, %Y" }}</span>
-    </li>
-  {% else %}
-    <li class="post-list-item">
-      <div class="item-left">
-        <span class="text-muted">No news synced yet — check back after the next scheduled update.</span>
-      </div>
-    </li>
+<div class="news-grid">
+  {% for site in site.data.news_sites %}
+    <a class="news-card" href="{{ site.url }}" target="_blank" rel="noopener">
+      <span class="news-card-name">{{ site.name }}</span>
+      <p class="news-card-description">{{ site.description }}</p>
+    </a>
   {% endfor %}
-</ul>
+</div>
