@@ -35,7 +35,7 @@ When changing `_config.yml` or files under `_data/`, keep them YAML-lint clean (
 
 Standard Jekyll layout/include structure:
 
-- `_layouts/default.html` — base HTML shell (`head` + `header` + `<main>` + `footer` includes). All pages render through this, directly or via `page`/`post`. `<main>` gets class `full-bleed` instead of `container` when the page's frontmatter sets `full_bleed: true` (used by `index.html` so the hero image can run edge-to-edge).
+- `_layouts/default.html` — base HTML shell (`head` + `header` + `<main class="container">` + `footer` includes). All pages render through this, directly or via `page`/`post`.
 - `_layouts/page.html` — wraps `default`; used for static pages (`about`, `blog`, `news`, `projects`) with a title/description header.
 - `_layouts/post.html` — wraps `default`; used for every entry in `_posts/`, including CTF writeups (see below). Always links back to `/blog/`.
 - `_includes/head.html`, `header.html`, `footer.html` — shared chrome. Nav links in `header.html` are hardcoded to `/news/`, `/projects/`, `/blog/`, `/about/`.
@@ -43,7 +43,7 @@ Standard Jekyll layout/include structure:
 
 **Content model:**
 - `_posts/` — all blog content lives here (`site.posts`), including CTF/vuln-research writeups, which are just posts tagged `ctf` (there is no separate CTF collection). `blog.html` (permalink `/blog/`) lists every post with a client-side tag filter (vanilla JS, no plugin) built from `site.tags`.
-- `index.html` — homepage; just the hero image (`assets/images/website-image.png`) with a name/tagline overlay. It does not list posts.
+- `index.html` — homepage; a black terminal-prompt motif (`$ whoami`, `$ cat about.txt`) driven by `site.author.name`/`site.description`, with a CSS-only typewriter effect (no JS) sized via the `--chars` custom property computed with Liquid's `size` filter. It does not list posts.
 
 **News aggregation (`/news/`):**
 - `_data/news_sources.yml` — list of `{name, url}` feed sources (currently just The Hacker News). Add more sources here.

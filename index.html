@@ -1,15 +1,21 @@
 ---
 layout: default
-full_bleed: true
 ---
-<section class="hero">
-  <img
-    class="hero-image"
-    src="{{ '/assets/images/website-image.png' | relative_url }}"
-    alt="A lantern-lit desk overlooking a mountain range at sunset, stacked with books on philosophy, psychology, and history, a notebook, and a keyboard."
-  >
-  <div class="hero-overlay">
-    <p class="hero-name">{% if site.author.name != "" %}{{ site.author.name }}{% else %}skyler-v1dot0{% endif %}</p>
-    <p class="hero-tagline">{{ site.description }}</p>
-  </div>
+<section class="home-terminal">
+  <p class="prompt-line">
+    <span class="prompt-symbol">$</span>
+    <span class="prompt-cmd">whoami</span>
+  </p>
+  <p class="terminal-output">{% if site.author.name != "" %}{{ site.author.name }}{% else %}skyler-v1dot0{% endif %}</p>
+
+  <p class="prompt-line">
+    <span class="prompt-symbol">$</span>
+    <span class="prompt-cmd">cat about.txt</span>
+  </p>
+  <p class="terminal-output typewriter" style="--chars: {{ site.description | size }};">{{ site.description }}</p>
+
+  <p class="prompt-line prompt-cursor">
+    <span class="prompt-symbol">$</span>
+    <span class="cursor"></span>
+  </p>
 </section>
