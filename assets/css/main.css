@@ -247,10 +247,6 @@ main.container {
     animation: none;
     width: auto;
   }
-
-  .prompt-cursor .cursor {
-    animation: none;
-  }
 }
 
 .section-header {
