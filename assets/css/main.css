@@ -701,6 +701,54 @@ main.container {
   color: var(--border);
 }
 
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-lg);
+}
+
+.cert-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-sm);
+  text-align: center;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: var(--spacing-lg) var(--spacing-md);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.cert-card:hover {
+  border-color: var(--text-muted);
+  transform: translateY(-2px);
+}
+
+.cert-card-logo {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+}
+
+.cert-card-name {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-strong);
+  line-height: 1.3;
+}
+
+.cert-card:hover .cert-card-name {
+  color: var(--accent);
+}
+
+.cert-card-issuer {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
 /* ===========================
    Syntax Highlighting (Rouge)
    =========================== */

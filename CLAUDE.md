@@ -48,6 +48,7 @@ Standard Jekyll layout/include structure:
 **Data-driven content:**
 - `_data/projects.yml` — array of project entries (`name`, `description`, `github`, `url`, `tags`) rendered by `projects.md` into cards. This is the file to edit to add/update a project; no template changes needed for a new entry.
 - `_data/news_sites.yml` — array of `{name, url, description}` entries rendered by `news.html` (`/news/`) as static link-out cards to external news sites. No feed fetching involved (an earlier version of this page pulled RSS via a scheduled GitHub Action; that pipeline was removed in favor of this static list) — just add an entry here to list another site.
+- `_data/certifications.yml` — array of `{name, issuer, image, url}` entries rendered by `about.md`'s "certifications" section as logo cards. Logo files are self-hosted under `assets/images/certs/` (official Credly badge images, downloaded rather than hotlinked) rather than linking to a third-party CDN directly.
 
 **Frontmatter conventions** for posts: `layout: post`, `title`, `date`, `description`, `tags` (array). CTF writeups just add a `ctf` tag alongside their other tags (e.g. `pwn`, `heap`) — tag membership drives both the `/blog/` filter and the tag color coding, there's no separate collection or flag.
 

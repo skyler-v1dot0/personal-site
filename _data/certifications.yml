@@ -1,0 +1,45 @@
+# Active certifications shown on /about/. Logo files live in assets/images/certs/.
+- name: "CompTIA A+"
+  issuer: "CompTIA"
+  image: "/assets/images/certs/comptia-aplus.png"
+  url: "https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1"
+
+- name: "CompTIA Network+"
+  issuer: "CompTIA"
+  image: "/assets/images/certs/comptia-networkplus.png"
+  url: "https://www.credly.com/org/comptia/badge/comptia-network-ce-certification.1"
+
+- name: "CompTIA Security+"
+  issuer: "CompTIA"
+  image: "/assets/images/certs/comptia-securityplus.png"
+  url: "https://www.credly.com/org/comptia/badge/comptia-security-ce-certification"
+
+- name: "CompTIA CySA+"
+  issuer: "CompTIA"
+  image: "/assets/images/certs/comptia-cysaplus.png"
+  url: "https://www.credly.com/org/comptia/badge/comptia-cysa-ce-certification"
+
+- name: "CompTIA PenTest+"
+  issuer: "CompTIA"
+  image: "/assets/images/certs/comptia-pentestplus.png"
+  url: "https://www.credly.com/org/comptia/badge/comptia-pentest-ce-certification"
+
+- name: "CompTIA Linux+"
+  issuer: "CompTIA"
+  image: "/assets/images/certs/comptia-linuxplus.png"
+  url: "https://www.credly.com/org/comptia/badge/comptia-linux-ce-certification"
+
+- name: "CompTIA SecurityX"
+  issuer: "CompTIA"
+  image: "/assets/images/certs/comptia-securityx.png"
+  url: "https://www.credly.com/org/comptia/badge/comptia-securityx-ce-certification"
+
+- name: "AWS Certified Solutions Architect – Associate"
+  issuer: "Amazon Web Services"
+  image: "/assets/images/certs/aws-saa.png"
+  url: "https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate"
+
+- name: "CISSP"
+  issuer: "ISC2"
+  image: "/assets/images/certs/isc2-cissp.png"
+  url: "https://www.credly.com/org/isc2/badge/certified-information-systems-security-professional-cissp"

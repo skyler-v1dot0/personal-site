@@ -67,7 +67,14 @@ Think harder not smarter...or something close to that.
 
 ---
 
-## elsewhere
+## certifications
 
-- GitHub: [fill in]
-- Contact: [fill in]
+<div class="cert-grid">
+  {% for cert in site.data.certifications %}
+    <a class="cert-card" href="{{ cert.url }}" target="_blank" rel="noopener">
+      <img class="cert-card-logo" src="{{ cert.image | relative_url }}" alt="{{ cert.name }} logo" loading="lazy">
+      <span class="cert-card-name">{{ cert.name }}</span>
+      <span class="cert-card-issuer">{{ cert.issuer }}</span>
+    </a>
+  {% endfor %}
+</div>
