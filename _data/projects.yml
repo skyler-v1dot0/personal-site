@@ -2,25 +2,9 @@
 - name: "docker-network-toolbox"
   description: "Docker image with base network troubleshooting tools. No need to install everything locally."
   github: "https://github.com/skyler-v1dot0/docker-network-toolbox"
-  url: ""
+  url: "https://github.com/skyler-v1dot0/docker-network-toolbox"
   tags:
     - docker
     - networking
     - troubleshooting
 
-- name: "project-two"
-  description: "Another tool or research project. Keep descriptions concise — one or two sentences."
-  github: "https://github.com/yourusername/project-two"
-  url: ""
-  tags:
-    - go
-    - red-team
-    - infrastructure
-
-- name: "project-three"
-  description: "Something you built for fun, research, or because it needed to exist."
-  github: ""
-  url: ""
-  tags:
-    - rust
-    - reverse-engineering
