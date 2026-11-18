@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Safeword' - Security in The Deepfake Age"
-date: 2026-03-07
+date: 2026-11-18
 description: "How do I know it's really you?"
 tags:
   - security
@@ -10,15 +10,15 @@ tags:
 
 ## Situation
 
-You recieve a call. The "police officer" on the other end says your son/daughter has been arrested and you need to pay their bail right now over the phone or they will be sent to jail.
+You receive a call. The "police officer" on the other end says your son/daughter has been arrested and you need to pay their bail right now over the phone or they will be sent to jail.
 
 You get a call from a friend, it sounds just like their voice, they say they have been kidnapped and need you to send them money right now and they will be let go. 
 
-You get a video call from your spouse. Their face is beaten and bruised. They tell you if don't transfer money to a strangers bank account right now, they will continue to be tortured.
+You get a video call from your spouse. Their face is beaten and bruised. They tell you if you don't transfer money to a strangers bank account right now, they will continue to be tortured.
 
 ## Reality
 
-Some of you may have read those scenarios and thought, "there is no way any of those are true!". Some of you may have just relieved a moment of dread (if so, my apologies). This is our reality now. In 2026, we didn’t get instant steak from a can (though I’m not sure we want that either), and we didn’t get micro-form-factor nuclear reactors (yet). No — we got deepfakes so real that even major corporations are sending millions of dollars to fraudsters.
+Some of you may have read those scenarios and thought, "there is no way any of those are true!". Some of you may have just relived a moment of dread (if so, my apologies). This is our reality now. In 2026, we didn’t get instant steak from a can (though I’m not sure we want that either), and we didn’t get micro-form-factor nuclear reactors (yet). No — we got deepfakes so real that even major corporations are sending millions of dollars to fraudsters.
 
 ## Proofs
 
@@ -28,18 +28,22 @@ Some of you may have read those scenarios and thought, "there is no way any of t
 
 ## Moving Forward
 
-There are a myriad of intances of deepfakes being used for nefarious reasons. These three examples highlight that the reef stonefish are out there...and we are the small fish they prey upon.
+There are a myriad of instances of deepfakes being used for nefarious reasons. These three examples highlight that the reef stonefish are out there...and we are the small fish they prey upon.
 
-Do not fall into dispair. There are ways to beat this elusive predator. Below are a list of some techniques to verify the other end of communication. I would recommend using multiple techniques for verification, and if you still aren't sure...hide under a rock (I am kidding).
+Do not fall into despair. There are ways to beat this elusive predator. Below are a list of some techniques to verify the other end of communication. I would recommend using multiple techniques for verification, and if you still aren't sure...hide under a rock (I am kidding).
 - Use a safeword or phrase
-      Establish a safeword or phrase with your immediate family. It needs to be something only you all know. Do not use information that is easily found on social media, or guessable by someone who knows your family well. Something random, and easily remembered. It is also good to rotate the word or phrase out on a schedule like every 6 months or a year, or after use.
 
-      Examples:
-        - Purple elephants rain from the sky
-        - Red rabbits dig
-        - King coffee in purple cups
+  Establish a safeword or phrase with your immediate family. It needs to be something only you all know. Do not use information that is easily found on social media, or guessable by someone who knows your family well. Something random, and easily remembered. It is also good to rotate the word or phrase out on a schedule like every 6 months or a year, or after use.
 
-      Caution - This is not a good method to use with several people. You will end up having to memorize several safewords or phrases.
+  ```
+  Examples:
+    - Purple elephants rain from the sky
+    - Red rabbits dig
+    - King coffee in purple cups
+  ```
+
+  Caution - This is not a good method to use with several people. You will end up having to memorize several safewords or phrases.
 
 - Use out-of-band verification
-      If you recieve a call, or video call, or text, etc., hang up and call the person back directly. Use another method of communication if possible. Call someone you know may be around them to get verification. If you know they should be at work, call their work phone. 
+
+  If you receive a call, or video call, or text, etc., hang up and call the person back directly. Use another method of communication if possible. Call someone you know may be around them to get verification. If you know they should be at work, call their work phone.
