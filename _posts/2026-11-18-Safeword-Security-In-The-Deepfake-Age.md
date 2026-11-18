@@ -6,6 +6,7 @@ description: "How do I know it's really you?"
 tags:
   - security
   - advice
+  - quick-read
 ---
 
 ## Situation
