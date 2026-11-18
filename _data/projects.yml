@@ -9,8 +9,8 @@
     - troubleshooting
 
 - name: "todoui"
-  description: "A simple todo list application built with Golang."
-  github: "✓ a simple todo list for your terminal ✓"
+  description: "✓ a simple todo list for your terminal ✓"
+  github: "https://github.com/skyler-v1dot0/todoui"
   url: "https://github.com/skyler-v1dot0/todoui"
   tags:
     - golang
