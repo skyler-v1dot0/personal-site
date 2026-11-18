@@ -32,11 +32,14 @@ There are a myriad of intances of deepfakes being used for nefarious reasons. Th
 
 Do not fall into dispair. There are ways to beat this elusive predator. Below are a list of some techniques to verify the other end of communication. I would recommend using multiple techniques for verification, and if you still aren't sure...hide under a rock (I am kidding).
 - Use a safeword or phrase
-    Establish a safeword or phrase with your immediate family. It needs to be something only you all know. Do not use information that is easily found on social media, or guessable by someone who knows your family well. Something random, and easily remembered. It is also good to rotate the word or phrase out on a schedule like every 6 months or a year, or after use.
-    Examples:
-      - Purple elephants rain from the sky
-      - Red rabbits dig
-      - King coffee in purple cups
-    Caution - This is not a good method to use with several people. You will end up having to memorize several safewords or phrases.
+      Establish a safeword or phrase with your immediate family. It needs to be something only you all know. Do not use information that is easily found on social media, or guessable by someone who knows your family well. Something random, and easily remembered. It is also good to rotate the word or phrase out on a schedule like every 6 months or a year, or after use.
+
+      Examples:
+        - Purple elephants rain from the sky
+        - Red rabbits dig
+        - King coffee in purple cups
+
+      Caution - This is not a good method to use with several people. You will end up having to memorize several safewords or phrases.
+
 - Use out-of-band verification
-    If you recieve a call, or video call, or text, etc., hang up and call the person back directly. Use another method of communication if possible. Call someone you know may be around them to get verification. If you know they should be at work, call their work phone. 
+      If you recieve a call, or video call, or text, etc., hang up and call the person back directly. Use another method of communication if possible. Call someone you know may be around them to get verification. If you know they should be at work, call their work phone. 
